@@ -1,0 +1,793 @@
+"","X.U.FEFF.BFS_NR","GEBIET_NAME","THEMA_NAME","SET_NAME","SUBSET_NAME","INDIKATOR_ID","INDIKATOR_NAME","INDIKATOR_JAHR","INDIKATOR_VALUE","EINHEIT_KURZ","EINHEIT_LANG","X"
+"1",1,"Aeugst a.A.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,4.9,"%","Prozent",NA
+"2",1,"Aeugst a.A.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,5.1,"%","Prozent",NA
+"3",1,"Aeugst a.A.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,5.1,"%","Prozent",NA
+"4",1,"Aeugst a.A.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,5.1,"%","Prozent",NA
+"5",2,"Affoltern a.A.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,5.6,"%","Prozent",NA
+"6",2,"Affoltern a.A.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,6.5,"%","Prozent",NA
+"7",2,"Affoltern a.A.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,6.6,"%","Prozent",NA
+"8",2,"Affoltern a.A.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,7.7,"%","Prozent",NA
+"9",3,"Bonstetten","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,5.1,"%","Prozent",NA
+"10",3,"Bonstetten","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,5.1,"%","Prozent",NA
+"11",3,"Bonstetten","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,5.2,"%","Prozent",NA
+"12",3,"Bonstetten","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,5.1,"%","Prozent",NA
+"13",4,"Hausen a.A.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,4.1,"%","Prozent",NA
+"14",4,"Hausen a.A.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,4.5,"%","Prozent",NA
+"15",4,"Hausen a.A.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,4.5,"%","Prozent",NA
+"16",4,"Hausen a.A.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,4.5,"%","Prozent",NA
+"17",5,"Hedingen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,4.1,"%","Prozent",NA
+"18",5,"Hedingen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,4.1,"%","Prozent",NA
+"19",5,"Hedingen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,4.9,"%","Prozent",NA
+"20",5,"Hedingen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,4.9,"%","Prozent",NA
+"21",6,"Kappel a.A.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,3.5,"%","Prozent",NA
+"22",6,"Kappel a.A.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,3.5,"%","Prozent",NA
+"23",6,"Kappel a.A.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,3.6,"%","Prozent",NA
+"24",6,"Kappel a.A.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,3.6,"%","Prozent",NA
+"25",7,"Knonau","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,5.4,"%","Prozent",NA
+"26",7,"Knonau","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,5.5,"%","Prozent",NA
+"27",7,"Knonau","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,5.4,"%","Prozent",NA
+"28",7,"Knonau","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,7.4,"%","Prozent",NA
+"29",8,"Maschwanden","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,3.2,"%","Prozent",NA
+"30",8,"Maschwanden","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,2.8,"%","Prozent",NA
+"31",8,"Maschwanden","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,3,"%","Prozent",NA
+"32",8,"Maschwanden","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,3.4,"%","Prozent",NA
+"33",9,"Mettmenstetten","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,4.1,"%","Prozent",NA
+"34",9,"Mettmenstetten","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,4.4,"%","Prozent",NA
+"35",9,"Mettmenstetten","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,4.7,"%","Prozent",NA
+"36",9,"Mettmenstetten","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,5.8,"%","Prozent",NA
+"37",10,"Obfelden","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,5,"%","Prozent",NA
+"38",10,"Obfelden","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,5.2,"%","Prozent",NA
+"39",10,"Obfelden","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,5.2,"%","Prozent",NA
+"40",10,"Obfelden","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,7.4,"%","Prozent",NA
+"41",11,"Ottenbach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,4.2,"%","Prozent",NA
+"42",11,"Ottenbach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,4.2,"%","Prozent",NA
+"43",11,"Ottenbach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,4.2,"%","Prozent",NA
+"44",11,"Ottenbach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,4.4,"%","Prozent",NA
+"45",12,"Rifferswil","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,4.7,"%","Prozent",NA
+"46",12,"Rifferswil","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,4.7,"%","Prozent",NA
+"47",12,"Rifferswil","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,5,"%","Prozent",NA
+"48",12,"Rifferswil","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,5,"%","Prozent",NA
+"49",13,"Stallikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,2.4,"%","Prozent",NA
+"50",13,"Stallikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,2.8,"%","Prozent",NA
+"51",13,"Stallikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,2.9,"%","Prozent",NA
+"52",13,"Stallikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,3,"%","Prozent",NA
+"53",14,"Wettswil a.A.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,5.6,"%","Prozent",NA
+"54",14,"Wettswil a.A.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,6.1,"%","Prozent",NA
+"55",14,"Wettswil a.A.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,6.4,"%","Prozent",NA
+"56",14,"Wettswil a.A.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,7.7,"%","Prozent",NA
+"57",21,"Adlikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,5,"%","Prozent",NA
+"58",21,"Adlikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,5,"%","Prozent",NA
+"59",21,"Adlikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,6.2,"%","Prozent",NA
+"60",21,"Adlikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,6.2,"%","Prozent",NA
+"61",22,"Benken","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,2.8,"%","Prozent",NA
+"62",22,"Benken","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,2.8,"%","Prozent",NA
+"63",22,"Benken","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,2.7,"%","Prozent",NA
+"64",22,"Benken","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,3.5,"%","Prozent",NA
+"65",23,"Berg a.I.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,1.7,"%","Prozent",NA
+"66",23,"Berg a.I.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,1.8,"%","Prozent",NA
+"67",23,"Berg a.I.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,1.8,"%","Prozent",NA
+"68",23,"Berg a.I.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,1.8,"%","Prozent",NA
+"69",24,"Buch a.I.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,3.4,"%","Prozent",NA
+"70",24,"Buch a.I.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,3.6,"%","Prozent",NA
+"71",24,"Buch a.I.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,3.6,"%","Prozent",NA
+"72",24,"Buch a.I.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,3.6,"%","Prozent",NA
+"73",25,"Dachsen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,9.8,"%","Prozent",NA
+"74",25,"Dachsen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,9.8,"%","Prozent",NA
+"75",25,"Dachsen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,9,"%","Prozent",NA
+"76",25,"Dachsen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,10.9,"%","Prozent",NA
+"77",26,"Dorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,1.1,"%","Prozent",NA
+"78",26,"Dorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,1.3,"%","Prozent",NA
+"79",26,"Dorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,1.3,"%","Prozent",NA
+"80",26,"Dorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,1.3,"%","Prozent",NA
+"81",27,"Feuerthalen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,10,"%","Prozent",NA
+"82",27,"Feuerthalen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,10,"%","Prozent",NA
+"83",27,"Feuerthalen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,10.8,"%","Prozent",NA
+"84",27,"Feuerthalen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,10.8,"%","Prozent",NA
+"85",28,"Flaach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,2.4,"%","Prozent",NA
+"86",28,"Flaach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,2.5,"%","Prozent",NA
+"87",28,"Flaach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,2.5,"%","Prozent",NA
+"88",28,"Flaach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,2.4,"%","Prozent",NA
+"89",29,"Flurlingen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,4.2,"%","Prozent",NA
+"90",29,"Flurlingen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,5,"%","Prozent",NA
+"91",29,"Flurlingen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,6.7,"%","Prozent",NA
+"92",29,"Flurlingen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,6.7,"%","Prozent",NA
+"93",30,"Andelfingen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,3.9,"%","Prozent",NA
+"94",30,"Andelfingen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,4.2,"%","Prozent",NA
+"95",30,"Andelfingen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,4.9,"%","Prozent",NA
+"96",30,"Andelfingen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,5.1,"%","Prozent",NA
+"97",31,"Henggart","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,6.3,"%","Prozent",NA
+"98",31,"Henggart","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,6.6,"%","Prozent",NA
+"99",31,"Henggart","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,9.5,"%","Prozent",NA
+"100",31,"Henggart","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,9.5,"%","Prozent",NA
+"101",32,"Humlikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,2.4,"%","Prozent",NA
+"102",32,"Humlikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,2.2,"%","Prozent",NA
+"103",32,"Humlikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,4.1,"%","Prozent",NA
+"104",32,"Humlikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,4.1,"%","Prozent",NA
+"105",33,"Kleinandelfingen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,4.5,"%","Prozent",NA
+"106",33,"Kleinandelfingen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,4.7,"%","Prozent",NA
+"107",33,"Kleinandelfingen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,4.4,"%","Prozent",NA
+"108",33,"Kleinandelfingen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,5.2,"%","Prozent",NA
+"109",34,"Laufen-Uhwiesen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,4,"%","Prozent",NA
+"110",34,"Laufen-Uhwiesen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,4.1,"%","Prozent",NA
+"111",34,"Laufen-Uhwiesen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,4.1,"%","Prozent",NA
+"112",34,"Laufen-Uhwiesen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,4.6,"%","Prozent",NA
+"113",35,"Marthalen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,3.5,"%","Prozent",NA
+"114",35,"Marthalen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,3.4,"%","Prozent",NA
+"115",35,"Marthalen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,3.5,"%","Prozent",NA
+"116",35,"Marthalen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,3.7,"%","Prozent",NA
+"117",36,"Oberstammheim (bis 2018)","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,3.4,"%","Prozent",NA
+"118",36,"Oberstammheim (bis 2018)","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,3.4,"%","Prozent",NA
+"119",36,"Oberstammheim (bis 2018)","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,3.6,"%","Prozent",NA
+"120",36,"Oberstammheim (bis 2018)","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,3.6,"%","Prozent",NA
+"121",37,"Ossingen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,3.7,"%","Prozent",NA
+"122",37,"Ossingen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,3.7,"%","Prozent",NA
+"123",37,"Ossingen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,3.7,"%","Prozent",NA
+"124",37,"Ossingen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,3.8,"%","Prozent",NA
+"125",38,"Rheinau","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,3.8,"%","Prozent",NA
+"126",38,"Rheinau","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,3.9,"%","Prozent",NA
+"127",38,"Rheinau","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,4,"%","Prozent",NA
+"128",38,"Rheinau","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,4.1,"%","Prozent",NA
+"129",39,"Thalheim a.d.Th.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,3.6,"%","Prozent",NA
+"130",39,"Thalheim a.d.Th.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,3.6,"%","Prozent",NA
+"131",39,"Thalheim a.d.Th.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,3.7,"%","Prozent",NA
+"132",39,"Thalheim a.d.Th.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,3.7,"%","Prozent",NA
+"133",40,"Trüllikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,2.4,"%","Prozent",NA
+"134",40,"Trüllikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,2.4,"%","Prozent",NA
+"135",40,"Trüllikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,2.7,"%","Prozent",NA
+"136",40,"Trüllikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,2.9,"%","Prozent",NA
+"137",41,"Truttikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,2.3,"%","Prozent",NA
+"138",41,"Truttikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,2.3,"%","Prozent",NA
+"139",41,"Truttikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,2.3,"%","Prozent",NA
+"140",41,"Truttikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,2.3,"%","Prozent",NA
+"141",42,"Unterstammheim (bis 2018)","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,4.6,"%","Prozent",NA
+"142",42,"Unterstammheim (bis 2018)","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,4.6,"%","Prozent",NA
+"143",42,"Unterstammheim (bis 2018)","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,4.4,"%","Prozent",NA
+"144",42,"Unterstammheim (bis 2018)","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,4.7,"%","Prozent",NA
+"145",43,"Volken","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,2.4,"%","Prozent",NA
+"146",43,"Volken","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,2.4,"%","Prozent",NA
+"147",43,"Volken","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,2.4,"%","Prozent",NA
+"148",43,"Volken","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,2.7,"%","Prozent",NA
+"149",44,"Waltalingen (bis 2018)","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,4,"%","Prozent",NA
+"150",44,"Waltalingen (bis 2018)","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,4.1,"%","Prozent",NA
+"151",44,"Waltalingen (bis 2018)","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,4.3,"%","Prozent",NA
+"152",44,"Waltalingen (bis 2018)","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,4.3,"%","Prozent",NA
+"153",51,"Bachenbülach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,9.3,"%","Prozent",NA
+"154",51,"Bachenbülach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,9.1,"%","Prozent",NA
+"155",51,"Bachenbülach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,9.6,"%","Prozent",NA
+"156",51,"Bachenbülach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,10.5,"%","Prozent",NA
+"157",52,"Bassersdorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,7.5,"%","Prozent",NA
+"158",52,"Bassersdorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,8.1,"%","Prozent",NA
+"159",52,"Bassersdorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,8.5,"%","Prozent",NA
+"160",52,"Bassersdorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,8.8,"%","Prozent",NA
+"161",53,"Bülach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,8.5,"%","Prozent",NA
+"162",53,"Bülach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,8.8,"%","Prozent",NA
+"163",53,"Bülach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,9.3,"%","Prozent",NA
+"164",53,"Bülach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,9.3,"%","Prozent",NA
+"165",54,"Dietlikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,9.4,"%","Prozent",NA
+"166",54,"Dietlikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,9.7,"%","Prozent",NA
+"167",54,"Dietlikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,9.2,"%","Prozent",NA
+"168",54,"Dietlikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,9.7,"%","Prozent",NA
+"169",55,"Eglisau","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,6.8,"%","Prozent",NA
+"170",55,"Eglisau","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,6.9,"%","Prozent",NA
+"171",55,"Eglisau","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,7.3,"%","Prozent",NA
+"172",55,"Eglisau","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,7.3,"%","Prozent",NA
+"173",56,"Embrach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,5.1,"%","Prozent",NA
+"174",56,"Embrach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,5.3,"%","Prozent",NA
+"175",56,"Embrach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,5,"%","Prozent",NA
+"176",56,"Embrach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,5,"%","Prozent",NA
+"177",57,"Freienstein-Teufen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,2.9,"%","Prozent",NA
+"178",57,"Freienstein-Teufen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,2.9,"%","Prozent",NA
+"179",57,"Freienstein-Teufen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,3.2,"%","Prozent",NA
+"180",57,"Freienstein-Teufen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,3.2,"%","Prozent",NA
+"181",58,"Glattfelden","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,5.6,"%","Prozent",NA
+"182",58,"Glattfelden","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,5.8,"%","Prozent",NA
+"183",58,"Glattfelden","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,5.9,"%","Prozent",NA
+"184",58,"Glattfelden","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,6,"%","Prozent",NA
+"185",59,"Hochfelden","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,2.3,"%","Prozent",NA
+"186",59,"Hochfelden","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,3.2,"%","Prozent",NA
+"187",59,"Hochfelden","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,3.4,"%","Prozent",NA
+"188",59,"Hochfelden","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,3.4,"%","Prozent",NA
+"189",60,"Höri","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,6.5,"%","Prozent",NA
+"190",60,"Höri","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,6.5,"%","Prozent",NA
+"191",60,"Höri","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,6.7,"%","Prozent",NA
+"192",60,"Höri","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,6.7,"%","Prozent",NA
+"193",61,"Hüntwangen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,3.9,"%","Prozent",NA
+"194",61,"Hüntwangen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,4.3,"%","Prozent",NA
+"195",61,"Hüntwangen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,4.9,"%","Prozent",NA
+"196",61,"Hüntwangen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,5.1,"%","Prozent",NA
+"197",62,"Kloten","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,21.4,"%","Prozent",NA
+"198",62,"Kloten","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,23.3,"%","Prozent",NA
+"199",62,"Kloten","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,26.7,"%","Prozent",NA
+"200",62,"Kloten","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,27.1,"%","Prozent",NA
+"201",63,"Lufingen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,3.9,"%","Prozent",NA
+"202",63,"Lufingen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,4.1,"%","Prozent",NA
+"203",63,"Lufingen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,3.9,"%","Prozent",NA
+"204",63,"Lufingen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,3.7,"%","Prozent",NA
+"205",64,"Nürensdorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,4.4,"%","Prozent",NA
+"206",64,"Nürensdorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,4.9,"%","Prozent",NA
+"207",64,"Nürensdorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,5.2,"%","Prozent",NA
+"208",64,"Nürensdorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,5.5,"%","Prozent",NA
+"209",65,"Oberembrach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,2.8,"%","Prozent",NA
+"210",65,"Oberembrach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,2.8,"%","Prozent",NA
+"211",65,"Oberembrach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,2.8,"%","Prozent",NA
+"212",65,"Oberembrach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,2.8,"%","Prozent",NA
+"213",66,"Opfikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,15.2,"%","Prozent",NA
+"214",66,"Opfikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,18.2,"%","Prozent",NA
+"215",66,"Opfikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,19.8,"%","Prozent",NA
+"216",66,"Opfikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,21.3,"%","Prozent",NA
+"217",67,"Rafz","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,4.2,"%","Prozent",NA
+"218",67,"Rafz","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,4.6,"%","Prozent",NA
+"219",67,"Rafz","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,4.5,"%","Prozent",NA
+"220",67,"Rafz","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,4.7,"%","Prozent",NA
+"221",68,"Rorbas","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,2,"%","Prozent",NA
+"222",68,"Rorbas","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,2.2,"%","Prozent",NA
+"223",68,"Rorbas","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,2.2,"%","Prozent",NA
+"224",68,"Rorbas","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,2.4,"%","Prozent",NA
+"225",69,"Wallisellen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,18.3,"%","Prozent",NA
+"226",69,"Wallisellen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,20,"%","Prozent",NA
+"227",69,"Wallisellen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,20.6,"%","Prozent",NA
+"228",69,"Wallisellen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,21.7,"%","Prozent",NA
+"229",70,"Wasterkingen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,2,"%","Prozent",NA
+"230",70,"Wasterkingen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,2,"%","Prozent",NA
+"231",70,"Wasterkingen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,2,"%","Prozent",NA
+"232",70,"Wasterkingen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,2,"%","Prozent",NA
+"233",71,"Wil","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,3.7,"%","Prozent",NA
+"234",71,"Wil","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,3.8,"%","Prozent",NA
+"235",71,"Wil","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,3.9,"%","Prozent",NA
+"236",71,"Wil","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,4.2,"%","Prozent",NA
+"237",72,"Winkel","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,10.4,"%","Prozent",NA
+"238",72,"Winkel","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,10.8,"%","Prozent",NA
+"239",72,"Winkel","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,10.8,"%","Prozent",NA
+"240",72,"Winkel","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,10.6,"%","Prozent",NA
+"241",81,"Bachs","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,3.3,"%","Prozent",NA
+"242",81,"Bachs","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,3.4,"%","Prozent",NA
+"243",81,"Bachs","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,3.4,"%","Prozent",NA
+"244",81,"Bachs","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,3.4,"%","Prozent",NA
+"245",82,"Boppelsen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,3.3,"%","Prozent",NA
+"246",82,"Boppelsen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,3.6,"%","Prozent",NA
+"247",82,"Boppelsen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,3.6,"%","Prozent",NA
+"248",82,"Boppelsen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,3.8,"%","Prozent",NA
+"249",83,"Buchs","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,6.1,"%","Prozent",NA
+"250",83,"Buchs","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,8.3,"%","Prozent",NA
+"251",83,"Buchs","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,8.7,"%","Prozent",NA
+"252",83,"Buchs","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,8.9,"%","Prozent",NA
+"253",84,"Dällikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,3.6,"%","Prozent",NA
+"254",84,"Dällikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,4,"%","Prozent",NA
+"255",84,"Dällikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,4.7,"%","Prozent",NA
+"256",84,"Dällikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,4.9,"%","Prozent",NA
+"257",85,"Dänikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,2.8,"%","Prozent",NA
+"258",85,"Dänikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,4.3,"%","Prozent",NA
+"259",85,"Dänikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,3.9,"%","Prozent",NA
+"260",85,"Dänikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,3.9,"%","Prozent",NA
+"261",86,"Dielsdorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,7.7,"%","Prozent",NA
+"262",86,"Dielsdorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,8.2,"%","Prozent",NA
+"263",86,"Dielsdorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,8.3,"%","Prozent",NA
+"264",86,"Dielsdorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,8.5,"%","Prozent",NA
+"265",87,"Hüttikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,3.8,"%","Prozent",NA
+"266",87,"Hüttikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,6.3,"%","Prozent",NA
+"267",87,"Hüttikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,7.5,"%","Prozent",NA
+"268",87,"Hüttikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,8.1,"%","Prozent",NA
+"269",88,"Neerach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,6.5,"%","Prozent",NA
+"270",88,"Neerach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,6.7,"%","Prozent",NA
+"271",88,"Neerach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,6.5,"%","Prozent",NA
+"272",88,"Neerach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,6.5,"%","Prozent",NA
+"273",89,"Niederglatt","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,6.4,"%","Prozent",NA
+"274",89,"Niederglatt","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,7.2,"%","Prozent",NA
+"275",89,"Niederglatt","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,7.5,"%","Prozent",NA
+"276",89,"Niederglatt","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,7.5,"%","Prozent",NA
+"277",90,"Niederhasli","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,3.7,"%","Prozent",NA
+"278",90,"Niederhasli","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,4.9,"%","Prozent",NA
+"279",90,"Niederhasli","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,4.9,"%","Prozent",NA
+"280",90,"Niederhasli","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,5.4,"%","Prozent",NA
+"281",91,"Niederweningen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,3.8,"%","Prozent",NA
+"282",91,"Niederweningen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,3.9,"%","Prozent",NA
+"283",91,"Niederweningen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,3.9,"%","Prozent",NA
+"284",91,"Niederweningen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,4.2,"%","Prozent",NA
+"285",92,"Oberglatt","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,15.7,"%","Prozent",NA
+"286",92,"Oberglatt","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,17.1,"%","Prozent",NA
+"287",92,"Oberglatt","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,17.8,"%","Prozent",NA
+"288",92,"Oberglatt","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,18.8,"%","Prozent",NA
+"289",93,"Oberweningen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,4.1,"%","Prozent",NA
+"290",93,"Oberweningen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,3.9,"%","Prozent",NA
+"291",93,"Oberweningen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,4.1,"%","Prozent",NA
+"292",93,"Oberweningen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,4.1,"%","Prozent",NA
+"293",94,"Otelfingen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,5.6,"%","Prozent",NA
+"294",94,"Otelfingen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,6.4,"%","Prozent",NA
+"295",94,"Otelfingen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,7,"%","Prozent",NA
+"296",94,"Otelfingen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,7,"%","Prozent",NA
+"297",95,"Regensberg","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,4.2,"%","Prozent",NA
+"298",95,"Regensberg","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,4.2,"%","Prozent",NA
+"299",95,"Regensberg","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,4.6,"%","Prozent",NA
+"300",95,"Regensberg","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,4.6,"%","Prozent",NA
+"301",96,"Regensdorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,6.9,"%","Prozent",NA
+"302",96,"Regensdorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,7.6,"%","Prozent",NA
+"303",96,"Regensdorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,8.2,"%","Prozent",NA
+"304",96,"Regensdorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,8.3,"%","Prozent",NA
+"305",97,"Rümlang","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,8.6,"%","Prozent",NA
+"306",97,"Rümlang","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,11,"%","Prozent",NA
+"307",97,"Rümlang","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,13,"%","Prozent",NA
+"308",97,"Rümlang","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,15.1,"%","Prozent",NA
+"309",98,"Schleinikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,2.5,"%","Prozent",NA
+"310",98,"Schleinikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,2.5,"%","Prozent",NA
+"311",98,"Schleinikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,2.7,"%","Prozent",NA
+"312",98,"Schleinikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,2.7,"%","Prozent",NA
+"313",99,"Schöfflisdorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,2.8,"%","Prozent",NA
+"314",99,"Schöfflisdorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,3,"%","Prozent",NA
+"315",99,"Schöfflisdorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,3,"%","Prozent",NA
+"316",99,"Schöfflisdorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,3,"%","Prozent",NA
+"317",100,"Stadel","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,2.7,"%","Prozent",NA
+"318",100,"Stadel","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,2.8,"%","Prozent",NA
+"319",100,"Stadel","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,2.8,"%","Prozent",NA
+"320",100,"Stadel","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,2.8,"%","Prozent",NA
+"321",101,"Steinmaur","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,4.6,"%","Prozent",NA
+"322",101,"Steinmaur","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,5,"%","Prozent",NA
+"323",101,"Steinmaur","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,5,"%","Prozent",NA
+"324",101,"Steinmaur","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,5,"%","Prozent",NA
+"325",102,"Weiach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,2,"%","Prozent",NA
+"326",102,"Weiach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,2.5,"%","Prozent",NA
+"327",102,"Weiach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,2.9,"%","Prozent",NA
+"328",102,"Weiach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,2.9,"%","Prozent",NA
+"329",111,"Bäretswil","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,2.3,"%","Prozent",NA
+"330",111,"Bäretswil","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,2.3,"%","Prozent",NA
+"331",111,"Bäretswil","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,2.4,"%","Prozent",NA
+"332",111,"Bäretswil","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,2.6,"%","Prozent",NA
+"333",112,"Bubikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,6.4,"%","Prozent",NA
+"334",112,"Bubikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,7.1,"%","Prozent",NA
+"335",112,"Bubikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,7.5,"%","Prozent",NA
+"336",112,"Bubikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,7.7,"%","Prozent",NA
+"337",113,"Dürnten","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,7.4,"%","Prozent",NA
+"338",113,"Dürnten","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,7.3,"%","Prozent",NA
+"339",113,"Dürnten","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,7.1,"%","Prozent",NA
+"340",113,"Dürnten","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,6.9,"%","Prozent",NA
+"341",114,"Fischenthal","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,1.7,"%","Prozent",NA
+"342",114,"Fischenthal","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,1.8,"%","Prozent",NA
+"343",114,"Fischenthal","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,2.1,"%","Prozent",NA
+"344",114,"Fischenthal","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,2.1,"%","Prozent",NA
+"345",115,"Gossau","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,5,"%","Prozent",NA
+"346",115,"Gossau","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,5.2,"%","Prozent",NA
+"347",115,"Gossau","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,5.2,"%","Prozent",NA
+"348",115,"Gossau","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,5.3,"%","Prozent",NA
+"349",116,"Grüningen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,4.5,"%","Prozent",NA
+"350",116,"Grüningen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,4.7,"%","Prozent",NA
+"351",116,"Grüningen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,4.8,"%","Prozent",NA
+"352",116,"Grüningen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,4.6,"%","Prozent",NA
+"353",117,"Hinwil","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,6.4,"%","Prozent",NA
+"354",117,"Hinwil","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,6.8,"%","Prozent",NA
+"355",117,"Hinwil","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,6.9,"%","Prozent",NA
+"356",117,"Hinwil","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,7.1,"%","Prozent",NA
+"357",118,"Rüti","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,7.8,"%","Prozent",NA
+"358",118,"Rüti","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,7.5,"%","Prozent",NA
+"359",118,"Rüti","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,7.8,"%","Prozent",NA
+"360",118,"Rüti","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,7.8,"%","Prozent",NA
+"361",119,"Seegräben","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,5,"%","Prozent",NA
+"362",119,"Seegräben","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,5,"%","Prozent",NA
+"363",119,"Seegräben","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,5.6,"%","Prozent",NA
+"364",119,"Seegräben","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,5.6,"%","Prozent",NA
+"365",120,"Wald","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,3.9,"%","Prozent",NA
+"366",120,"Wald","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,4,"%","Prozent",NA
+"367",120,"Wald","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,4,"%","Prozent",NA
+"368",120,"Wald","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,4.2,"%","Prozent",NA
+"369",121,"Wetzikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,6.1,"%","Prozent",NA
+"370",121,"Wetzikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,6.3,"%","Prozent",NA
+"371",121,"Wetzikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,6.5,"%","Prozent",NA
+"372",121,"Wetzikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,6.8,"%","Prozent",NA
+"373",131,"Adliswil","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,9.4,"%","Prozent",NA
+"374",131,"Adliswil","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,10.2,"%","Prozent",NA
+"375",131,"Adliswil","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,9.8,"%","Prozent",NA
+"376",131,"Adliswil","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,9.8,"%","Prozent",NA
+"377",132,"Hirzel (bis 2017)","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1983,3,"%","Prozent",NA
+"378",132,"Hirzel (bis 2017)","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1996,3,"%","Prozent",NA
+"379",132,"Hirzel (bis 2017)","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2007,3,"%","Prozent",NA
+"380",133,"Horgen (bis 2017)","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1983,7.6,"%","Prozent",NA
+"381",133,"Horgen (bis 2017)","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1996,7.7,"%","Prozent",NA
+"382",133,"Horgen (bis 2017)","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2007,8,"%","Prozent",NA
+"383",134,"Hütten (bis 2018)","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,1.9,"%","Prozent",NA
+"384",134,"Hütten (bis 2018)","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,1.9,"%","Prozent",NA
+"385",134,"Hütten (bis 2018)","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,2.2,"%","Prozent",NA
+"386",134,"Hütten (bis 2018)","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,2.2,"%","Prozent",NA
+"387",135,"Kilchberg","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,11.2,"%","Prozent",NA
+"388",135,"Kilchberg","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,11.2,"%","Prozent",NA
+"389",135,"Kilchberg","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,11.2,"%","Prozent",NA
+"390",135,"Kilchberg","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,11.2,"%","Prozent",NA
+"391",136,"Langnau a.A.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,6,"%","Prozent",NA
+"392",136,"Langnau a.A.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,6.1,"%","Prozent",NA
+"393",136,"Langnau a.A.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,6.1,"%","Prozent",NA
+"394",136,"Langnau a.A.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,6.1,"%","Prozent",NA
+"395",137,"Oberrieden","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,13,"%","Prozent",NA
+"396",137,"Oberrieden","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,13.4,"%","Prozent",NA
+"397",137,"Oberrieden","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,13,"%","Prozent",NA
+"398",137,"Oberrieden","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,13,"%","Prozent",NA
+"399",138,"Richterswil","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,9.7,"%","Prozent",NA
+"400",138,"Richterswil","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,10.3,"%","Prozent",NA
+"401",138,"Richterswil","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,11.3,"%","Prozent",NA
+"402",138,"Richterswil","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,10.9,"%","Prozent",NA
+"403",139,"Rüschlikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,14.7,"%","Prozent",NA
+"404",139,"Rüschlikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,14.7,"%","Prozent",NA
+"405",139,"Rüschlikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,14,"%","Prozent",NA
+"406",139,"Rüschlikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,13.3,"%","Prozent",NA
+"407",140,"Schönenberg (bis 2018)","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,2.1,"%","Prozent",NA
+"408",140,"Schönenberg (bis 2018)","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,2.2,"%","Prozent",NA
+"409",140,"Schönenberg (bis 2018)","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,2.2,"%","Prozent",NA
+"410",140,"Schönenberg (bis 2018)","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,2.4,"%","Prozent",NA
+"411",141,"Thalwil","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,14.1,"%","Prozent",NA
+"412",141,"Thalwil","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,14.3,"%","Prozent",NA
+"413",141,"Thalwil","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,14.7,"%","Prozent",NA
+"414",141,"Thalwil","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,14.5,"%","Prozent",NA
+"415",142,"Wädenswil (bis 2018)","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,8.7,"%","Prozent",NA
+"416",142,"Wädenswil (bis 2018)","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,8.9,"%","Prozent",NA
+"417",142,"Wädenswil (bis 2018)","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,8.9,"%","Prozent",NA
+"418",142,"Wädenswil (bis 2018)","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,8.9,"%","Prozent",NA
+"419",151,"Erlenbach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,8.4,"%","Prozent",NA
+"420",151,"Erlenbach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,9.1,"%","Prozent",NA
+"421",151,"Erlenbach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,10.4,"%","Prozent",NA
+"422",151,"Erlenbach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,10.1,"%","Prozent",NA
+"423",152,"Herrliberg","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,4.7,"%","Prozent",NA
+"424",152,"Herrliberg","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,4.9,"%","Prozent",NA
+"425",152,"Herrliberg","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,5,"%","Prozent",NA
+"426",152,"Herrliberg","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,4.9,"%","Prozent",NA
+"427",153,"Hombrechtikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,4.3,"%","Prozent",NA
+"428",153,"Hombrechtikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,4.7,"%","Prozent",NA
+"429",153,"Hombrechtikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,4.8,"%","Prozent",NA
+"430",153,"Hombrechtikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,5,"%","Prozent",NA
+"431",154,"Küsnacht","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,6.2,"%","Prozent",NA
+"432",154,"Küsnacht","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,6.2,"%","Prozent",NA
+"433",154,"Küsnacht","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,6.2,"%","Prozent",NA
+"434",154,"Küsnacht","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,6.3,"%","Prozent",NA
+"435",155,"Männedorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,10.5,"%","Prozent",NA
+"436",155,"Männedorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,11.1,"%","Prozent",NA
+"437",155,"Männedorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,11.6,"%","Prozent",NA
+"438",155,"Männedorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,11.6,"%","Prozent",NA
+"439",156,"Meilen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,5.6,"%","Prozent",NA
+"440",156,"Meilen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,5.7,"%","Prozent",NA
+"441",156,"Meilen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,6.1,"%","Prozent",NA
+"442",156,"Meilen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,6.1,"%","Prozent",NA
+"443",157,"Oetwil a.S.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,4.9,"%","Prozent",NA
+"444",157,"Oetwil a.S.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,5.4,"%","Prozent",NA
+"445",157,"Oetwil a.S.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,5.6,"%","Prozent",NA
+"446",157,"Oetwil a.S.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,5.6,"%","Prozent",NA
+"447",158,"Stäfa","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,6.7,"%","Prozent",NA
+"448",158,"Stäfa","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,7.3,"%","Prozent",NA
+"449",158,"Stäfa","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,7.7,"%","Prozent",NA
+"450",158,"Stäfa","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,7.8,"%","Prozent",NA
+"451",159,"Uetikon a.S.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,6.8,"%","Prozent",NA
+"452",159,"Uetikon a.S.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,7.1,"%","Prozent",NA
+"453",159,"Uetikon a.S.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,7.7,"%","Prozent",NA
+"454",159,"Uetikon a.S.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,7.1,"%","Prozent",NA
+"455",160,"Zumikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,7.9,"%","Prozent",NA
+"456",160,"Zumikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,7.9,"%","Prozent",NA
+"457",160,"Zumikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,8.2,"%","Prozent",NA
+"458",160,"Zumikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,8.2,"%","Prozent",NA
+"459",161,"Zollikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,7,"%","Prozent",NA
+"460",161,"Zollikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,7,"%","Prozent",NA
+"461",161,"Zollikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,7,"%","Prozent",NA
+"462",161,"Zollikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,7,"%","Prozent",NA
+"463",171,"Bauma (bis 2014)","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1983,2.8,"%","Prozent",NA
+"464",171,"Bauma (bis 2014)","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1996,2.9,"%","Prozent",NA
+"465",171,"Bauma (bis 2014)","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2007,2.9,"%","Prozent",NA
+"466",172,"Fehraltorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,5.3,"%","Prozent",NA
+"467",172,"Fehraltorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,5.8,"%","Prozent",NA
+"468",172,"Fehraltorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,5.8,"%","Prozent",NA
+"469",172,"Fehraltorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,5.9,"%","Prozent",NA
+"470",173,"Hittnau","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,3.3,"%","Prozent",NA
+"471",173,"Hittnau","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,3.5,"%","Prozent",NA
+"472",173,"Hittnau","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,3.5,"%","Prozent",NA
+"473",173,"Hittnau","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,3.5,"%","Prozent",NA
+"474",174,"Illnau-Effretikon (bis 2015)","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1983,5.9,"%","Prozent",NA
+"475",174,"Illnau-Effretikon (bis 2015)","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1996,6,"%","Prozent",NA
+"476",174,"Illnau-Effretikon (bis 2015)","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2007,6.2,"%","Prozent",NA
+"477",175,"Kyburg (bis 2015)","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1983,1.6,"%","Prozent",NA
+"478",175,"Kyburg (bis 2015)","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1996,1.7,"%","Prozent",NA
+"479",175,"Kyburg (bis 2015)","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2007,1.7,"%","Prozent",NA
+"480",176,"Lindau","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,8.5,"%","Prozent",NA
+"481",176,"Lindau","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,8.6,"%","Prozent",NA
+"482",176,"Lindau","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,8.9,"%","Prozent",NA
+"483",176,"Lindau","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,9.1,"%","Prozent",NA
+"484",177,"Pfäffikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,4.1,"%","Prozent",NA
+"485",177,"Pfäffikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,4.3,"%","Prozent",NA
+"486",177,"Pfäffikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,4.2,"%","Prozent",NA
+"487",177,"Pfäffikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,4.4,"%","Prozent",NA
+"488",178,"Russikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,3.2,"%","Prozent",NA
+"489",178,"Russikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,3.4,"%","Prozent",NA
+"490",178,"Russikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,3.4,"%","Prozent",NA
+"491",178,"Russikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,3.5,"%","Prozent",NA
+"492",179,"Sternenberg (bis 2014)","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1983,1.7,"%","Prozent",NA
+"493",179,"Sternenberg (bis 2014)","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1996,1.7,"%","Prozent",NA
+"494",179,"Sternenberg (bis 2014)","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2007,1.7,"%","Prozent",NA
+"495",180,"Weisslingen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,3.2,"%","Prozent",NA
+"496",180,"Weisslingen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,3.4,"%","Prozent",NA
+"497",180,"Weisslingen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,3.6,"%","Prozent",NA
+"498",180,"Weisslingen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,3.6,"%","Prozent",NA
+"499",181,"Wila","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,2.1,"%","Prozent",NA
+"500",181,"Wila","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,2.6,"%","Prozent",NA
+"501",181,"Wila","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,2.9,"%","Prozent",NA
+"502",181,"Wila","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,3,"%","Prozent",NA
+"503",182,"Wildberg","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,3,"%","Prozent",NA
+"504",182,"Wildberg","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,3.2,"%","Prozent",NA
+"505",182,"Wildberg","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,4,"%","Prozent",NA
+"506",182,"Wildberg","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,3.9,"%","Prozent",NA
+"507",191,"Dübendorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,10.6,"%","Prozent",NA
+"508",191,"Dübendorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,11.4,"%","Prozent",NA
+"509",191,"Dübendorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,11.8,"%","Prozent",NA
+"510",191,"Dübendorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,12.1,"%","Prozent",NA
+"511",192,"Egg","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,4.8,"%","Prozent",NA
+"512",192,"Egg","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,5,"%","Prozent",NA
+"513",192,"Egg","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,5.2,"%","Prozent",NA
+"514",192,"Egg","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,5.3,"%","Prozent",NA
+"515",193,"Fällanden","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,7.1,"%","Prozent",NA
+"516",193,"Fällanden","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,7.4,"%","Prozent",NA
+"517",193,"Fällanden","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,8,"%","Prozent",NA
+"518",193,"Fällanden","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,8.3,"%","Prozent",NA
+"519",194,"Greifensee","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,8.4,"%","Prozent",NA
+"520",194,"Greifensee","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,7.9,"%","Prozent",NA
+"521",194,"Greifensee","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,8.8,"%","Prozent",NA
+"522",194,"Greifensee","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,8.8,"%","Prozent",NA
+"523",195,"Maur","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,5.2,"%","Prozent",NA
+"524",195,"Maur","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,5.3,"%","Prozent",NA
+"525",195,"Maur","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,5.5,"%","Prozent",NA
+"526",195,"Maur","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,5.5,"%","Prozent",NA
+"527",196,"Mönchaltorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,4.1,"%","Prozent",NA
+"528",196,"Mönchaltorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,4.5,"%","Prozent",NA
+"529",196,"Mönchaltorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,4.2,"%","Prozent",NA
+"530",196,"Mönchaltorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,4.3,"%","Prozent",NA
+"531",197,"Schwerzenbach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,7.2,"%","Prozent",NA
+"532",197,"Schwerzenbach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,10.2,"%","Prozent",NA
+"533",197,"Schwerzenbach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,10.2,"%","Prozent",NA
+"534",197,"Schwerzenbach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,10.2,"%","Prozent",NA
+"535",198,"Uster","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,6.5,"%","Prozent",NA
+"536",198,"Uster","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,7.9,"%","Prozent",NA
+"537",198,"Uster","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,8.3,"%","Prozent",NA
+"538",198,"Uster","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,8.4,"%","Prozent",NA
+"539",199,"Volketswil","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,8.8,"%","Prozent",NA
+"540",199,"Volketswil","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,9.2,"%","Prozent",NA
+"541",199,"Volketswil","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,9.6,"%","Prozent",NA
+"542",199,"Volketswil","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,9.4,"%","Prozent",NA
+"543",200,"Wangen-Brüttisellen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,11.5,"%","Prozent",NA
+"544",200,"Wangen-Brüttisellen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,12.4,"%","Prozent",NA
+"545",200,"Wangen-Brüttisellen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,12.9,"%","Prozent",NA
+"546",200,"Wangen-Brüttisellen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,13,"%","Prozent",NA
+"547",211,"Altikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,2.2,"%","Prozent",NA
+"548",211,"Altikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,2.2,"%","Prozent",NA
+"549",211,"Altikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,2.5,"%","Prozent",NA
+"550",211,"Altikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,2.5,"%","Prozent",NA
+"551",213,"Brütten","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,3,"%","Prozent",NA
+"552",213,"Brütten","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,3,"%","Prozent",NA
+"553",213,"Brütten","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,2.9,"%","Prozent",NA
+"554",213,"Brütten","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,2.9,"%","Prozent",NA
+"555",214,"Dägerlen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,3.3,"%","Prozent",NA
+"556",214,"Dägerlen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,3.3,"%","Prozent",NA
+"557",214,"Dägerlen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,3.1,"%","Prozent",NA
+"558",214,"Dägerlen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,3.3,"%","Prozent",NA
+"559",215,"Dättlikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,2.1,"%","Prozent",NA
+"560",215,"Dättlikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,2.1,"%","Prozent",NA
+"561",215,"Dättlikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,2.4,"%","Prozent",NA
+"562",215,"Dättlikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,2.4,"%","Prozent",NA
+"563",216,"Dinhard","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,3.7,"%","Prozent",NA
+"564",216,"Dinhard","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,3.7,"%","Prozent",NA
+"565",216,"Dinhard","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,3.8,"%","Prozent",NA
+"566",216,"Dinhard","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,3.7,"%","Prozent",NA
+"567",217,"Elgg (bis 2017)","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1983,4.5,"%","Prozent",NA
+"568",217,"Elgg (bis 2017)","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1996,4.4,"%","Prozent",NA
+"569",217,"Elgg (bis 2017)","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2007,4.5,"%","Prozent",NA
+"570",218,"Ellikon a.d.Th.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,5,"%","Prozent",NA
+"571",218,"Ellikon a.d.Th.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,5,"%","Prozent",NA
+"572",218,"Ellikon a.d.Th.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,5.2,"%","Prozent",NA
+"573",218,"Ellikon a.d.Th.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,5.2,"%","Prozent",NA
+"574",219,"Elsau","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,5.3,"%","Prozent",NA
+"575",219,"Elsau","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,5.3,"%","Prozent",NA
+"576",219,"Elsau","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,5.7,"%","Prozent",NA
+"577",219,"Elsau","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,5.8,"%","Prozent",NA
+"578",220,"Hagenbuch","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,3.9,"%","Prozent",NA
+"579",220,"Hagenbuch","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,3.9,"%","Prozent",NA
+"580",220,"Hagenbuch","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,3.9,"%","Prozent",NA
+"581",220,"Hagenbuch","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,4,"%","Prozent",NA
+"582",221,"Hettlingen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,4.5,"%","Prozent",NA
+"583",221,"Hettlingen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,4.6,"%","Prozent",NA
+"584",221,"Hettlingen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,4.3,"%","Prozent",NA
+"585",221,"Hettlingen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,4.3,"%","Prozent",NA
+"586",222,"Hofstetten (bis 2017)","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1983,1.7,"%","Prozent",NA
+"587",222,"Hofstetten (bis 2017)","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1996,1.9,"%","Prozent",NA
+"588",222,"Hofstetten (bis 2017)","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2007,2,"%","Prozent",NA
+"589",223,"Neftenbach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,4,"%","Prozent",NA
+"590",223,"Neftenbach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,4.1,"%","Prozent",NA
+"591",223,"Neftenbach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,4.9,"%","Prozent",NA
+"592",223,"Neftenbach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,4.9,"%","Prozent",NA
+"593",224,"Pfungen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,7,"%","Prozent",NA
+"594",224,"Pfungen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,7.4,"%","Prozent",NA
+"595",224,"Pfungen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,7.2,"%","Prozent",NA
+"596",224,"Pfungen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,8,"%","Prozent",NA
+"597",225,"Rickenbach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,5,"%","Prozent",NA
+"598",225,"Rickenbach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,5.1,"%","Prozent",NA
+"599",225,"Rickenbach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,5.3,"%","Prozent",NA
+"600",225,"Rickenbach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,5.5,"%","Prozent",NA
+"601",226,"Schlatt","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,2.1,"%","Prozent",NA
+"602",226,"Schlatt","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,2.5,"%","Prozent",NA
+"603",226,"Schlatt","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,3,"%","Prozent",NA
+"604",226,"Schlatt","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,3,"%","Prozent",NA
+"605",227,"Seuzach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,8.4,"%","Prozent",NA
+"606",227,"Seuzach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,8.9,"%","Prozent",NA
+"607",227,"Seuzach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,9.7,"%","Prozent",NA
+"608",227,"Seuzach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,9.7,"%","Prozent",NA
+"609",228,"Turbenthal","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,2.2,"%","Prozent",NA
+"610",228,"Turbenthal","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,2.4,"%","Prozent",NA
+"611",228,"Turbenthal","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,2.5,"%","Prozent",NA
+"612",228,"Turbenthal","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,2.7,"%","Prozent",NA
+"613",230,"Winterthur","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,8.3,"%","Prozent",NA
+"614",230,"Winterthur","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,8.7,"%","Prozent",NA
+"615",230,"Winterthur","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,9.1,"%","Prozent",NA
+"616",230,"Winterthur","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,9.1,"%","Prozent",NA
+"617",231,"Zell","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,3.4,"%","Prozent",NA
+"618",231,"Zell","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,3.4,"%","Prozent",NA
+"619",231,"Zell","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,3.5,"%","Prozent",NA
+"620",231,"Zell","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,3.8,"%","Prozent",NA
+"621",241,"Aesch ZH","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,2.9,"%","Prozent",NA
+"622",241,"Aesch ZH","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,2.9,"%","Prozent",NA
+"623",241,"Aesch ZH","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,2.9,"%","Prozent",NA
+"624",241,"Aesch ZH","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,3.5,"%","Prozent",NA
+"625",242,"Birmensdorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,6.2,"%","Prozent",NA
+"626",242,"Birmensdorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,7,"%","Prozent",NA
+"627",242,"Birmensdorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,8.6,"%","Prozent",NA
+"628",242,"Birmensdorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,10.6,"%","Prozent",NA
+"629",243,"Dietikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,13.9,"%","Prozent",NA
+"630",243,"Dietikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,14.8,"%","Prozent",NA
+"631",243,"Dietikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,15.1,"%","Prozent",NA
+"632",243,"Dietikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,15.4,"%","Prozent",NA
+"633",244,"Geroldswil","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,8.9,"%","Prozent",NA
+"634",244,"Geroldswil","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,9.5,"%","Prozent",NA
+"635",244,"Geroldswil","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,8.9,"%","Prozent",NA
+"636",244,"Geroldswil","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,8.9,"%","Prozent",NA
+"637",245,"Oberengstringen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,7.5,"%","Prozent",NA
+"638",245,"Oberengstringen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,7.5,"%","Prozent",NA
+"639",245,"Oberengstringen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,7.5,"%","Prozent",NA
+"640",245,"Oberengstringen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,7.5,"%","Prozent",NA
+"641",246,"Oetwil a.d.L.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,4.3,"%","Prozent",NA
+"642",246,"Oetwil a.d.L.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,4.7,"%","Prozent",NA
+"643",246,"Oetwil a.d.L.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,5.1,"%","Prozent",NA
+"644",246,"Oetwil a.d.L.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,5.4,"%","Prozent",NA
+"645",247,"Schlieren","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,10.1,"%","Prozent",NA
+"646",247,"Schlieren","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,10.6,"%","Prozent",NA
+"647",247,"Schlieren","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,10.9,"%","Prozent",NA
+"648",247,"Schlieren","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,10.7,"%","Prozent",NA
+"649",248,"Uitikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,5.5,"%","Prozent",NA
+"650",248,"Uitikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,5.7,"%","Prozent",NA
+"651",248,"Uitikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,5.7,"%","Prozent",NA
+"652",248,"Uitikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,5.9,"%","Prozent",NA
+"653",249,"Unterengstringen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,8.9,"%","Prozent",NA
+"654",249,"Unterengstringen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,10.7,"%","Prozent",NA
+"655",249,"Unterengstringen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,11,"%","Prozent",NA
+"656",249,"Unterengstringen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,10.7,"%","Prozent",NA
+"657",250,"Urdorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,4.4,"%","Prozent",NA
+"658",250,"Urdorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,7.7,"%","Prozent",NA
+"659",250,"Urdorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,8.2,"%","Prozent",NA
+"660",250,"Urdorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,8.3,"%","Prozent",NA
+"661",251,"Weiningen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,5.5,"%","Prozent",NA
+"662",251,"Weiningen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,10.7,"%","Prozent",NA
+"663",251,"Weiningen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,10.5,"%","Prozent",NA
+"664",251,"Weiningen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,10.5,"%","Prozent",NA
+"665",261,"Zürich","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,14,"%","Prozent",NA
+"666",261,"Zürich","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,14.5,"%","Prozent",NA
+"667",261,"Zürich","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,14.6,"%","Prozent",NA
+"668",261,"Zürich","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,14.6,"%","Prozent",NA
+"669",292,"Stammheim","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,3.9,"%","Prozent",NA
+"670",292,"Stammheim","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,4,"%","Prozent",NA
+"671",292,"Stammheim","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,4,"%","Prozent",NA
+"672",292,"Stammheim","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,4.1,"%","Prozent",NA
+"673",293,"Wädenswil","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,5.3,"%","Prozent",NA
+"674",293,"Wädenswil","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,5.4,"%","Prozent",NA
+"675",293,"Wädenswil","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,5.5,"%","Prozent",NA
+"676",293,"Wädenswil","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,5.5,"%","Prozent",NA
+"677",294,"Elgg","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,3.5,"%","Prozent",NA
+"678",294,"Elgg","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,3.5,"%","Prozent",NA
+"679",294,"Elgg","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,3.6,"%","Prozent",NA
+"680",294,"Elgg","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,3.7,"%","Prozent",NA
+"681",295,"Horgen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,6.2,"%","Prozent",NA
+"682",295,"Horgen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,6.2,"%","Prozent",NA
+"683",295,"Horgen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,6.4,"%","Prozent",NA
+"684",295,"Horgen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,6.3,"%","Prozent",NA
+"685",296,"Illnau-Effretikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,4.9,"%","Prozent",NA
+"686",296,"Illnau-Effretikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,5,"%","Prozent",NA
+"687",296,"Illnau-Effretikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,5.1,"%","Prozent",NA
+"688",296,"Illnau-Effretikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,5.2,"%","Prozent",NA
+"689",297,"Bauma","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,2.5,"%","Prozent",NA
+"690",297,"Bauma","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,2.6,"%","Prozent",NA
+"691",297,"Bauma","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,2.6,"%","Prozent",NA
+"692",297,"Bauma","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,2.7,"%","Prozent",NA
+"693",298,"Wiesendangen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,6.7,"%","Prozent",NA
+"694",298,"Wiesendangen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,6.8,"%","Prozent",NA
+"695",298,"Wiesendangen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,7,"%","Prozent",NA
+"696",298,"Wiesendangen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,7.1,"%","Prozent",NA
+"697",0,"Bezirk Affoltern","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,4.3,"%","Prozent",NA
+"698",0,"Bezirk Affoltern","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,4.6,"%","Prozent",NA
+"699",0,"Bezirk Affoltern","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,4.7,"%","Prozent",NA
+"700",0,"Bezirk Affoltern","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,5.3,"%","Prozent",NA
+"701",0,"Bezirk Andelfingen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,3.6,"%","Prozent",NA
+"702",0,"Bezirk Andelfingen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,3.7,"%","Prozent",NA
+"703",0,"Bezirk Andelfingen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,3.9,"%","Prozent",NA
+"704",0,"Bezirk Andelfingen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,4.1,"%","Prozent",NA
+"705",0,"Bezirk Bülach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,7.9,"%","Prozent",NA
+"706",0,"Bezirk Bülach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,8.4,"%","Prozent",NA
+"707",0,"Bezirk Bülach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,9,"%","Prozent",NA
+"708",0,"Bezirk Bülach","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,9.2,"%","Prozent",NA
+"709",0,"Bezirk Dielsdorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,5.3,"%","Prozent",NA
+"710",0,"Bezirk Dielsdorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,6.1,"%","Prozent",NA
+"711",0,"Bezirk Dielsdorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,6.4,"%","Prozent",NA
+"712",0,"Bezirk Dielsdorf","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,6.8,"%","Prozent",NA
+"713",0,"Bezirk Dietikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,7.4,"%","Prozent",NA
+"714",0,"Bezirk Dietikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,8.8,"%","Prozent",NA
+"715",0,"Bezirk Dietikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,9.2,"%","Prozent",NA
+"716",0,"Bezirk Dietikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,9.7,"%","Prozent",NA
+"717",0,"Bezirk Hinwil","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,4.6,"%","Prozent",NA
+"718",0,"Bezirk Hinwil","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,4.8,"%","Prozent",NA
+"719",0,"Bezirk Hinwil","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,4.9,"%","Prozent",NA
+"720",0,"Bezirk Hinwil","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,5,"%","Prozent",NA
+"721",0,"Bezirk Horgen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,7.3,"%","Prozent",NA
+"722",0,"Bezirk Horgen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,7.5,"%","Prozent",NA
+"723",0,"Bezirk Horgen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,7.6,"%","Prozent",NA
+"724",0,"Bezirk Horgen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,7.5,"%","Prozent",NA
+"725",0,"Bezirk Meilen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,6.2,"%","Prozent",NA
+"726",0,"Bezirk Meilen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,6.4,"%","Prozent",NA
+"727",0,"Bezirk Meilen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,6.7,"%","Prozent",NA
+"728",0,"Bezirk Meilen","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,6.7,"%","Prozent",NA
+"729",0,"Bezirk Pfäffikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,4,"%","Prozent",NA
+"730",0,"Bezirk Pfäffikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,4.1,"%","Prozent",NA
+"731",0,"Bezirk Pfäffikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,4.3,"%","Prozent",NA
+"732",0,"Bezirk Pfäffikon","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,4.4,"%","Prozent",NA
+"733",0,"Bezirk Uster","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,7.1,"%","Prozent",NA
+"734",0,"Bezirk Uster","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,7.9,"%","Prozent",NA
+"735",0,"Bezirk Uster","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,8.2,"%","Prozent",NA
+"736",0,"Bezirk Uster","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,8.3,"%","Prozent",NA
+"737",0,"Bezirk Winterthur","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,5.2,"%","Prozent",NA
+"738",0,"Bezirk Winterthur","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,5.4,"%","Prozent",NA
+"739",0,"Bezirk Winterthur","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,5.6,"%","Prozent",NA
+"740",0,"Bezirk Winterthur","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,5.7,"%","Prozent",NA
+"741",0,"Bezirk Zürich","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,14,"%","Prozent",NA
+"742",0,"Bezirk Zürich","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,14.5,"%","Prozent",NA
+"743",0,"Bezirk Zürich","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,14.6,"%","Prozent",NA
+"744",0,"Bezirk Zürich","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,14.6,"%","Prozent",NA
+"745",0,"Region Furttal","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,5.4,"%","Prozent",NA
+"746",0,"Region Furttal","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,6.4,"%","Prozent",NA
+"747",0,"Region Furttal","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,6.9,"%","Prozent",NA
+"748",0,"Region Furttal","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,7,"%","Prozent",NA
+"749",0,"Region Glattal","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,10.8,"%","Prozent",NA
+"750",0,"Region Glattal","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,11.9,"%","Prozent",NA
+"751",0,"Region Glattal","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,12.9,"%","Prozent",NA
+"752",0,"Region Glattal","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,13.4,"%","Prozent",NA
+"753",0,"Region Knonaueramt","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,4.3,"%","Prozent",NA
+"754",0,"Region Knonaueramt","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,4.6,"%","Prozent",NA
+"755",0,"Region Knonaueramt","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,4.7,"%","Prozent",NA
+"756",0,"Region Knonaueramt","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,5.3,"%","Prozent",NA
+"757",0,"Region Limmattal","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,7.4,"%","Prozent",NA
+"758",0,"Region Limmattal","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,8.8,"%","Prozent",NA
+"759",0,"Region Limmattal","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,9.2,"%","Prozent",NA
+"760",0,"Region Limmattal","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,9.7,"%","Prozent",NA
+"761",0,"Region Oberland","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,4.3,"%","Prozent",NA
+"762",0,"Region Oberland","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,4.6,"%","Prozent",NA
+"763",0,"Region Oberland","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,4.7,"%","Prozent",NA
+"764",0,"Region Oberland","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,4.8,"%","Prozent",NA
+"765",0,"Region Pfannenstiel","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,6,"%","Prozent",NA
+"766",0,"Region Pfannenstiel","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,6.2,"%","Prozent",NA
+"767",0,"Region Pfannenstiel","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,6.5,"%","Prozent",NA
+"768",0,"Region Pfannenstiel","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,6.5,"%","Prozent",NA
+"769",0,"Region Unterland","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,5.1,"%","Prozent",NA
+"770",0,"Region Unterland","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,5.4,"%","Prozent",NA
+"771",0,"Region Unterland","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,5.5,"%","Prozent",NA
+"772",0,"Region Unterland","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,5.7,"%","Prozent",NA
+"773",0,"Region Weinland","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,3.6,"%","Prozent",NA
+"774",0,"Region Weinland","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,3.7,"%","Prozent",NA
+"775",0,"Region Weinland","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,3.9,"%","Prozent",NA
+"776",0,"Region Weinland","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,4.1,"%","Prozent",NA
+"777",0,"Region Winterthur u. Umg.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,5.2,"%","Prozent",NA
+"778",0,"Region Winterthur u. Umg.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,5.4,"%","Prozent",NA
+"779",0,"Region Winterthur u. Umg.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,5.6,"%","Prozent",NA
+"780",0,"Region Winterthur u. Umg.","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,5.7,"%","Prozent",NA
+"781",0,"Region Zimmerberg","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,7.3,"%","Prozent",NA
+"782",0,"Region Zimmerberg","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,7.5,"%","Prozent",NA
+"783",0,"Region Zimmerberg","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,7.6,"%","Prozent",NA
+"784",0,"Region Zimmerberg","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,7.5,"%","Prozent",NA
+"785",0,"Region Zürich","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,14,"%","Prozent",NA
+"786",0,"Region Zürich","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,14.5,"%","Prozent",NA
+"787",0,"Region Zürich","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,14.6,"%","Prozent",NA
+"788",0,"Region Zürich","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,14.6,"%","Prozent",NA
+"789",0,"Zürich - ganzer Kanton","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1985,5.7,"%","Prozent",NA
+"790",0,"Zürich - ganzer Kanton","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",1997,6.1,"%","Prozent",NA
+"791",0,"Zürich - ganzer Kanton","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2009,6.3,"%","Prozent",NA
+"792",0,"Zürich - ganzer Kanton","Raum und Umwelt","Geographie, Flächen","Flächen",187,"Anteil Verkehrsfläche [%]",2018,6.5,"%","Prozent",NA

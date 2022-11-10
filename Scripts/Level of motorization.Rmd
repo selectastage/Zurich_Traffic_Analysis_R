@@ -1,0 +1,699 @@
+---
+title: "Level of motorization in Zurich"
+subtitle: "What factors influence the number of cars ona a municipality level?"
+author: "Philipp Eble, Nils Hass"
+date: "2 February 2022"
+output:
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+```
+
+
+```{r dictionary_setup, include=FALSE, results=FALSE}
+
+# Set work dictionary & file names
+user <- "Nils"
+
+path.all.philipp <- "/Users/philippeble/switchdrive3/R Bootcamp/R_B/DataSets/merged_df.csv"
+path.all.nils <- "/Users/nilsh/HSLU/R_Bootcamp/DataSets/merged_df.csv"
+path.all.extern <- "/Eble_Hass/Data/merged_df.csv"
+
+path.shp.philipp <- "/Users/philippeble/switchdrive3/R Bootcamp/R_B/DataSets/Geographical_Data_Zurich/UP_GEMEINDEN_F.shp"
+path.shp.nils <- "/Users/nilsh/HSLU/R_Bootcamp/DataSets/Geographical_Data_Zurich/UP_GEMEINDEN_F.shp"
+path.all.extern <- "/Eble_Hass/Data/Geographical_Data_Zurich/UP_GEMEINDEN_F.sh"
+
+path.screenshots.philipp <- "/Users/philippeble/switchdrive3/R Bootcamp/R_B/Screenshots"
+path.screenshots.nils <- "/Users/nilsh/HSLU/R_Bootcamp/Screenshots/"
+path.screenshots.extern <- "/Eble_Hass/Screenshots/"
+
+```
+
+# Introduction
+
+Cars are one of the most popular means of transport in Switzerland. But unlike the public transport, walking or cycling, they lead to more traffic, more air pollution and take away valuable space for green areas and other environmentally friendly means of transport. 
+
+The large and, since its invention, increasing number of cars and other motorized vehicles plays a decisive role in this. Just about every municipality in Switzerland must deal with these problems. Therefore, we want to model the level of motorization within the municipalities across the canton of Zurich and investigate the factors affecting it. 
+
+
+
+```{r introduction_picture, echo=FALSE, fig.cap="Source: https://bit.ly/3BssiKR", out.width = '100%',fig.align = 'center'}
+
+if (user == "Philipp") {
+knitr::include_graphics(paste0(path.screenshots.philipp,"/Introduction_Pic_1.jpg"))
+}
+
+if (user == "Nils") {
+knitr::include_graphics(paste0(path.screenshots.nils,"/Introduction_Pic_1.jpg"))
+}
+
+if (user == "extern") {
+knitr::include_graphics(paste0(path.screenshots.extern,"/Introduction_Pic_1.jpg"))
+}
+
+
+```
+
+
+# 1. Data Collection
+
+To answer our research question, we first needed data to calculate the level of motorization for each of the municipalities in Zurich (number of motor vehicles per 1000 inhabitants). We then identified a number of possible influencing factors, which comprises traffic, public transport infrastructure, commercial activity, demographic data and many more. We have tried to find all available data on the structure of the municipality and the infrastructure for cars. Interesting factors, which we unfortunately could not find, would have been: Distance to motorways, number of parking spaces, proximity to shopping facilities and schools.
+
+This data was directly sourced form the cantonal statistics office website via url (www.web.statistik.zh.ch). Due to the identically structured data sources of the statistics office, further factors can be added without problems with the help of the built-in loop function. Finally all data sets are merged together into a single data frame and temporarily saved.
+
+\newpage
+
+
+```{r data_collection, include=FALSE}
+
+library(tidyr)
+library(dplyr)
+
+# Generate empty data frame for merged files
+
+df.communities <- data.frame(BFS_NO=integer(), GEBIET_NAME=character(), INDIKATOR_JAHR=integer())
+
+# File numbers which will be scrapped from www.web.statistik.zh.ch
+ind <- c(133,398,395,455,594,809,316,187,391,428,427,65,176,821,822,823,824,825,826,827,495,492,304) 
+
+# Level of motorization
+# -------------------------------
+# 133: Population
+# 398: Cars
+# 395: Motorcycles
+
+# 455: Households
+# 549: Workplaces
+# 809: Average Age
+# 316: Median Taxable Income
+# 187: Share Traffic Area
+# 391: Contribution to ZVV
+# 428: Expenses Traffic
+# 427: Expenses Environmental Protection
+# 65:  Total Tax Rate
+# 176: Road Investments
+
+
+# 821: PUT Access A
+# 822: PUT Access B
+# 823: PUT Access C
+# 824: PUT Access D
+# 825: PUT Access E
+# 826: PUT Access F
+# 827: PUT Access x
+
+# 495: Privat Transport Volume
+# 892: Puplic Transport Volume
+# 304: Restaurants
+
+for(i in ind) {
+  
+  url = paste0("https://www.web.statistik.zh.ch/ogd/data/KANTON_ZUERICH_",i,".csv")
+  
+  mtry <- try(read.table(url, sep = ";", header = TRUE), silent = TRUE)
+  
+  if (class(mtry) != "try-error") {
+    df.single <- read.table(url, sep = ";", header = TRUE, encoding="UTF-8")
+    
+    # Drop not needed columns
+    df.single <- df.single[ , -which(names(df.single) %in% c("THEMA_NAME", "SET_NAME",
+                                                             "SUBSET_NAME","INDIKATOR_ID","EINHEIT_KURZ","EINHEIT_LANG","X"))]
+    
+    #Rename Column "BFS"
+    names(df.single)[1] <- 'BFS_NO'
+    
+    
+    # Moving to long-format
+    df.single <- pivot_wider(df.single, names_from = "INDIKATOR_NAME", values_from = "INDIKATOR_VALUE")
+    
+    # Merge datasets
+    df.communities <- full_join(df.single, df.communities, by = c('BFS_NO'='BFS_NO', 'GEBIET_NAME'='GEBIET_NAME',
+                                                                  "INDIKATOR_JAHR"="INDIKATOR_JAHR"))
+    
+    # Success Massage
+    message(paste("Successfully downloaded file:", i))
+    
+  } else {
+    message(paste("File doesn't exist:", i))
+  }
+  
+}
+
+# Show combined files
+#summary(df.communities)
+
+if (user == "Philipp") {
+write.csv(x=df.communities, file= path.all.philipp)
+}
+
+if (user == "Nils") {
+write.csv(x=df.communities, file= path.all.nils)
+}
+
+if (user == "extern") {
+write.csv(x=df.communities, file= path.all.extern)
+}
+
+df.communities
+
+```
+
+\newpage
+
+# 2. Data Preperation
+
+## 2.1 Initiation
+
+In a first step of the data preparation we shortened the column names and gave them English notations. This gives us a better readability whereby the column order and rows are preserved. Let's have a look at the first entries of the data frame.
+
+```{r data_preparation_1, include=FALSE}
+
+# Load dataframe
+
+if (user == "Philipp") {
+df.initial <- read.csv(file= path.all.philipp , sep = ",")
+}
+
+if (user == "Nils") {
+df.initial <- read.csv(file= path.all.nils , sep = ",")
+}
+
+if (user == "extern") {
+df.initial <- read.csv(file= path.all.extern , sep = ",")
+}
+
+
+# amend column names
+colnames(df.initial) <- c("No","BFS","Municipality","Year","Restaurant","Puplic_Transport_Volume",
+                          "Privat_Transport_Volume","PUT_Access_A","PUT_Access_B","PUT_Access_C","PUT_Access_D",
+                          "PUT_Access_E","PUT_Access_F","PUT_Access_X","Road_Investments","Total_Tax_Rate",
+                          "Expenses_Environmental_Protection","Expenses_Traffic","Contribution_to_ZVV","Share_Traffic_Area",
+                          "Median_Taxable_Income", "Average_Age", "Workplaces", "Households","Motorcycles", "Cars",
+                          "Population")
+
+```
+
+
+```{r data_preparation_1_results, include=TRUE, results=TRUE, echo=FALSE}
+
+knitr::kable(df.initial[1:5, c(1,2,3,4,5,6,7)], caption = "Columns 2 - 7", booktabs = T)
+knitr::kable(df.initial[1:5, c(1,9,10,11,12,13)], caption = "Columns 9 - 13", booktabs = T)
+knitr::kable(df.initial[1:5, c(1,14,15,16,17)], caption = "Columns 14 - 17", booktabs = T)
+knitr::kable(df.initial[1:5, c(1,18,19,20,21)], caption = "Columns 18 - 21", booktabs = T)
+knitr::kable(df.initial[1:5, c(1,22,23,24,25,26)], caption = "Columns 22 - 26", booktabs = T)
+
+```
+
+## 2.2 Transform Variables
+
+In the next data preparation step, we created two categorical variables based on average age statistics of the municipality (Average_Age: "<38","38-42","43-46",">48") and the public transport indicators (PUT_Access_: "A", "B", "C", "D", "E" "F", "X"). 
+
+These variables allow us to segment data points by seniority of the citizens and by the degree of connectivity to public transport. Additionally, we created a normalized variable for the number of vehicles on the road per 1000 inhabitants (DOM: degree/level of motorization) and a date variable using a ISOdate format.
+
+```{r data_preparation_2, include=FALSE, results=TRUE}
+
+library(purrr)
+library(stringr)
+library(stringi)
+
+df.prep <- df.initial
+
+# Create categorical variable for average age groups
+
+df.prep$Average_Age <- cut(df.prep$Average_Age, breaks = c(0,38,42,46,48), labels = c("<38","38-42","43-46",">48"))
+
+
+# Create categorical variable for highest Public Transport Indicator ans set as factor
+
+f.PUT <- function(x){ifelse(rowSums(x)==0, NA, names(x)[max.col(x, "first")])}
+df.prep <- df.prep %>% 
+  mutate(PUT_Access_Category = stri_sub(f.PUT(across(starts_with("PUT_Access_"))),-1))
+
+df.prep$PUT_Access_Category <- as.factor(df.prep$PUT_Access_Category)
+
+# Create degree of motorisation (DOM)
+
+df.prep <- df.prep %>%
+  mutate(DOM = (Cars + Motorcycles)/Population*1000)
+
+# Convert four digit year values to class date (for example for time series)
+
+df.prep$Date <- as.Date(ISOdate(df.prep$Year, 12, 31))
+
+# Filter year, municipalities and order in ascending order
+df.prep <- df.prep %>%
+  filter(Year %in% 2015:2019)%>%
+  filter(BFS != 0)%>%
+  arrange(Year)
+
+
+head(df.prep)
+
+```
+
+```{r data_preparation_2_results, include=TRUE, results=TRUE, echo=FALSE}
+
+knitr::kable(df.prep[1:5, c(1,28,29,30)], caption = "New Features", booktabs = T)
+
+```
+\newpage
+
+## 2.3 Missing Values
+
+To assess the data quality of our data set, we created a NA-value table counting the number of missing values per variable. We discovered that missing values emerge exclusively from infrequent (non-annual basis) reporting or from missing municipalities. 
+
+Hence, our first step was to gather the missing municipality identifiers and create a vector containing the corresponding IDs. Subsequently, we filtered our data set to exclude these municipalities based on informative variables which had a high enough data quality. 
+
+Variables with too many missing values were subsequently removed from the data set resulting in 0 remaining NA values for our analysis.
+
+```{r data_preparation_3, include=FALSE, results=FALSE}
+
+# Create dataframe for inspecting NA values by year 
+
+df.year <- df.prep %>% 
+  group_by(Year) %>% 
+    summarize_all(.funs = funs('NA' = sum(is.na(.)))) %>% 
+      as.data.frame() %>% t()
+
+df.year
+
+# Gather municipalities with NA data
+NA_muns_restaurants <-  which(is.na(df.prep[c('Restaurant')]))
+NA_muns_tax_rate <-  which(is.na(df.prep[c('Total_Tax_Rate')]))
+NA_muns_gk <-  which(is.na(df.prep[c('PUT_Access_A')]))
+NA_muns_contr <-  which(is.na(df.prep[c('Contribution_to_ZVV')]))
+
+# Remove municipalities with NA data accordingly
+df.temp <-  df.prep[-c(NA_muns_restaurants,NA_muns_tax_rate,NA_muns_gk,NA_muns_contr), ]
+
+# Remove columns with too many N/A Values (ALSO deletes Median_Taxable_Income_NA due to 162 missing values in 2019)
+df.final <- df.temp %>% select(-c('Puplic_Transport_Volume', 'Privat_Transport_Volume','Share_Traffic_Area', 'Median_Taxable_Income'))
+
+
+```
+
+```{r data_preparation_3_results, include=TRUE, results=TRUE, echo=FALSE}
+
+knitr::kable(df.year, caption = "NA-Values per Year/Column", booktabs = T)
+
+```
+
+\newpage
+
+# 3. Exploratory Data Analysis 
+
+## 3.1 Structure
+
+After the data preparation and cleaning, we can take a look at the structure of our data frame using different plots and the summary function. For example, let's take a look at the measure of location and variation for the variable 'Population'. 
+
+```{r EDA_1.0, include=TRUE, results=TRUE, echo=FALSE}
+
+summary(df.final$Population)
+
+```
+Let's inspect the data further and move on to the visualizations:
+
+```{r EDA_1.1, include=TRUE, results=TRUE, echo=FALSE, fig.dim = c(8, 6)}
+
+library(ggplot2)
+
+
+
+# Check how many observations are left with a Basic R histogram
+
+observations <- df.final$Year
+hist(observations, main= paste0("Data Observation by year [Total number of observations: ", nrow(df.final), "]"),col="steelblue",
+     labels = TRUE)
+
+
+```
+
+As we can see from the first histogram, our data frame contains 795 observations, which are evenly distributed over the years. 
+
+```{r EDA_1.2, include=TRUE, results=TRUE, echo=FALSE, fig.dim = c(10, 8)}
+
+# Let's try to plot the data types with help of a function
+
+data_types <- function(frame) {
+  res <- lapply(frame, class)
+  res_frame <- data.frame(unlist(res))
+  barplot(table(res_frame), main= paste0("Data Types [Total number of features: ", ncol(df.final) , "]"), 
+          col="steelblue", ylab= "Number of Features")
+  
+}
+
+data_types(df.final)
+
+```
+
+Besides integer, numeric and character features, the data set now also contains date & factor features.
+
+```{r EDA_1.3, include=TRUE, results=TRUE, echo=FALSE, fig.dim = c(12, 10)}
+
+
+# Lastly we plot the change of number of cars for the years 2015 - 2019 with 'ggplot'
+ggplot(df.final, aes(x = Year, y = Cars)) + geom_col(fill = "#0099f9") + theme_classic() +labs(
+  title = "Number of Cars",
+  subtitle = "in Zurich",
+  ) + theme(
+    plot.title = element_text(color = "#0099f9", size = 20),
+    plot.subtitle = element_text(face = "bold"),
+  ) 
+
+```
+
+With the last graph, we show the addressed, rising trend in the number of cars in Zurich.
+
+\newpage
+
+## 3.2 Correlations & Density
+
+To get a sense of the data variables and their correlations, we created a shiny application that allows us to select two variables, view their correlation, their density plots and mean values. This was done to get a preliminary overview of the relationships in our data and identify outliers. 
+
+
+```{r EDA_2, include=FALSE, results=FALSE}
+
+library(shiny)
+library(tidyverse)
+
+
+shinyApp(
+  
+  ui = fluidPage(
+    
+    titlePanel("Exploratory Analysis"),
+    
+    sidebarLayout(
+      
+      sidebarPanel(
+        varSelectInput("Variable_1", "Variable 1:", selected = 'Road_Investments', df.final),
+        varSelectInput("Variable_2", "Variable 2:",selected = 'Total_Tax_Rate', df.final)),
+      
+      mainPanel(
+        
+        tabsetPanel(type = "tabs",
+                    tabPanel("Plot", plotOutput("data_1")),
+                    tabPanel("Density",
+                             fluidRow(
+                               column(8, plotOutput("data_2")),
+                               column(8, plotOutput("data_3"))
+                             ))
+        ))
+      
+    )),
+  
+  server = function(input, output) {
+    
+    output$data_1 <- renderPlot({
+      
+    
+    library("ggpubr")
+    ggscatter(df.final, x = as.character(input$Variable_2) , y = as.character(input$Variable_1), add = "reg.line", conf.int = TRUE, cor.coef = TRUE, cor.method = "pearson")
+      
+    })
+    
+    output$data_2<- renderPlot({
+      ggplot(df.final, aes(x=!!input$Variable_1)) + geom_density() + geom_vline(aes(xintercept=mean(!!input$Variable_1)),color="blue", linetype="dashed", size=1)
+      
+    })
+    
+    output$data_3<- renderPlot({
+      ggplot(df.final, aes(x=!!input$Variable_2)) + geom_density() + geom_vline(aes(xintercept=mean(!!input$Variable_2)),color="blue", linetype="dashed", size=1)
+
+    })
+    
+  
+    }
+  
+)
+
+```
+
+```{r CoC_map_picture1, echo=FALSE, fig.cap="Screenshot ShinyApp: Correlation Plots", out.width = '100%'}
+
+if (user == "Philipp") {
+knitr::include_graphics(paste0(path.screenshots.philipp,"/Exploratory Analysis Plot_1.png"))
+}
+
+if (user == "Nils") {
+knitr::include_graphics(paste0(path.screenshots.nils,"/Exploratory Analysis Plot_1.png"))
+}
+
+if (user == "extern") {
+knitr::include_graphics(paste0(path.screenshots.extern,"/Exploratory Analysis Plot_1.png"))
+}
+
+
+```
+
+```{r CoC_map_picture2, echo=FALSE, fig.cap="Screenshot ShinyApp: Density Plots", out.width = '100%'}
+
+if (user == "Philipp") {
+knitr::include_graphics(paste0(path.screenshots.philipp,"/Exploratory Analysis Plot_2.png"))
+}
+
+if (user == "Nils") {
+knitr::include_graphics(paste0(path.screenshots.nils,"/Exploratory Analysis Plot_2.png"))
+}
+
+if (user == "extern") {
+knitr::include_graphics(paste0(path.screenshots.extern,"/Exploratory Analysis Plot_2.png"))
+}
+
+
+```
+\newpage
+
+## 3.3 Outliers
+
+Using the shiny app we discovered that our results were strongly distorted by some of the more populous and resourceful municipalities in Zurich which relatively had far larger values. 
+
+We therefore proceeded to remove these values, thereby attaining more balanced variables better suited for linear modelling of the underlying effects in the data.
+
+```{r outlier_removal, include=FALSE, results=FALSE}
+
+# Find most populous municipalities (in 2019)
+df.ordered_cols <- df.final %>% 
+                filter(Year == 2019) %>% 
+                    select(Municipality, Population) %>% 
+                         arrange(desc(Population)) 
+                            
+
+# Delete two largest municipalities 
+df.final <- df.final %>%
+              filter(Municipality != 'Zürich' | Municipality != 'Winterthur')
+  
+```
+
+
+# 4. Data Modeling
+
+## 4.1 Simple linear regression
+
+From this, we set out to develop a simple and multiple linear model of the motorization level. 
+
+Our first assumption is that the number of workplaces affects the level of motorization. To answer this, a simple linear regression fits pretty well. Our independent (predictor) variable, we are interested in, will be DOM (Degree/Level of motorization). We plot DOM as a function of Workplaces (dependent variable) and get our first regression model: 
+
+```{r simple_linear_regression_1, include=FALSE, results=FALSE, echo=FALSE}
+
+library(olsrr)
+
+## Simple (One Variable) and 
+
+simple.fit = lm(DOM ~ Workplaces, data=df.final)
+
+```
+
+```{r simple_linear_regression_2, include=TRUE, results=TRUE, echo=FALSE}
+
+simple.fit
+
+```
+
+__DOM = 672.290871 -0.008469 * Workplaces.__
+
+
+To be noted is that linear regression makes several assumptions about the data at hand. With the QQ plot and histogram we visually check the  normality assumption. In our case, almost all the points fall approximately along this reference line, so we can assume normality. The correlation between our observed residuals and expected residuals shows a correlation of nearly 1.As we can see there is a negative correlation between the independent variable and the dependent variable. This suggests that as the number of Workplaces increases, the level of motorization tends to decrease. In other words, if there are more workplaces in a municipality, then there are also fewer vehicles there. 
+
+```{r simple_linear_regression_3, include=TRUE, results=TRUE, echo=FALSE}
+
+## Residual Diagnostics
+ols_plot_resid_qq(simple.fit)
+
+```
+
+```{r simple_linear_regression_4, include=FALSE, results=FALSE, echo=FALSE}
+
+## Correlation Diagnostics
+ols_test_correlation(simple.fit)
+
+```
+
+## 4.2 Multiple linear regression
+
+We applied the AIC stepwise regression technique for feature selection of our multiple linear regression model. This technique estimates in-sample prediction error and penalizes the addition of features. 
+
+The technique yielded traffic expenses, restaurants, environmental protection expenses, road investments and the PUT Access categorical variable as the most significant features for our model. 
+
+While the effect of traffic expenses on motorization levels do not appear to be statistical significant, we see a significant positive relationships between motorization levels and environmental protection expenses as with each unit invested, motorization is roughly 0.43 units greater. Significant negative relationships are encountered for road investments and restaurants, -0.037 and 0.225, respectively. 
+For the categorical variable Category B, C and D show significant positive relationships.
+
+The interpretation of the categorical variable is different as we have proportional data ranging from 0 to 1. Hence, the coefficients represent percentage increases that describe positive significant relationships particularly between B and C with motorization levels. 
+
+\newpage
+
+```{r multiple_linear_regression_1, include=FALSE, results=FALSE, echo=FALSE}
+
+# Step-wise Feature Selection
+library('MASS')
+linear.fit <- lm(DOM ~., data = df.final)
+multi.step <- stepAIC(linear.fit, direction = 'both')
+
+# Multiple Linear Regression using selected features
+multi.fit <- lm(DOM ~ Expenses_Traffic + Restaurant + Expenses_Environmental_Protection + Road_Investments + PUT_Access_Category, data=df.final)
+
+
+```
+
+```{r multiple_linear_regression_2, include=TRUE, results=TRUE, echo=FALSE}
+
+summary(multi.fit)
+
+```
+
+\newpage
+# 5 Chapter of choice
+
+## 5.1 Municipality Map
+
+In our chapter of choice we tried to display the level of motorization with the help of geographical data respectively a .shp-file. The level can be indicated with a slider and with the help of "shiny" the user is shown the municipalities which are above the indicated level of motorization. 
+
+The .shp-file was downloaded from https://www.stadt-zuerich.ch/portal/de/index/ogd/werkstatt/shp_shapefile.html.
+
+
+```{r CoC_map, include=FALSE, results=FALSE}
+
+library(rgdal)
+library(shiny)
+library(tidyverse)
+
+# Get correspondng values from df.final
+df.map <- df.final %>%
+  filter(Year %in% 2019)%>%
+  filter(BFS != 0)%>%
+  arrange(Year)
+
+df.map$DOM <- as.integer(df.map$DOM)
+
+# Get max/min of DOM for sliderInput
+
+#DOM.max <- as.integer(max(df.map$DOM))
+#DOM.min <- as.integer(min(df.map$DOM))
+
+DOM.max <- as.integer(1000)
+DOM.min <- as.integer(0)
+
+# Load shapefile of zurich
+
+if (user == "Philipp") {
+shp <- rgdal::readOGR(dsn = path.shp.philipp, layer = "UP_GEMEINDEN_F",encoding="UTF-8")
+}
+
+if (user == "Nils") {
+shp <- rgdal::readOGR(dsn = path.shp.nils, layer = "UP_GEMEINDEN_F",encoding="UTF-8")
+}
+
+if (user == "extern") {
+shp <- readOGR(dsn = path.shp.extern, layer = "UP_GEMEINDEN_F",encoding="UTF-8")
+}
+
+# add column & colour all municipalities grey
+shp@data$COLOUR <- "#d9dadb"
+
+# colour all lakes blue (lakes = NAs in GEMEINDENA)
+NAindex <- which(is.na(shp@data$GEMEINDENA))
+shp@data$COLOUR[NAindex]  <- "#91beeb"
+
+
+# Define UI for application that draws the map
+ui <- fluidPage(
+
+    # Application title
+    titlePanel("Degree of motorisation"),
+
+    # Sidebar with a slider input for DOM
+    sidebarLayout(
+        
+        sidebarPanel(
+            sliderInput("Max",
+                        "Slide:",
+                        min = DOM.min,
+                        max = DOM.max,
+                        value = DOM.min)
+        ),
+
+        # Show a plot of the generated map colours
+        mainPanel(
+           plotOutput("shpPlot")
+        )
+    )
+)
+
+# Define server logic required to draw the map
+server <- function(input, output) {
+
+    output$shpPlot <- renderPlot({
+      
+      
+      df.map.filtered <- df.map %>% 
+        filter(if_any(starts_with("DOM"), ~ . > input$Max))
+      
+      list <- df.map.filtered %>% dplyr:: select(starts_with("BFS"))
+      
+      for (item in list$BFS) {
+        index <- which(shp@data$BFS == item)
+        shp@data$COLOUR[index] <- "#e06e58"
+        }
+      
+        # draw the map
+      
+      plot(shp, main= input$Variable, col=shp@data$COLOUR,lwd=0.25, border=0 )
+    })
+}
+
+# Run the application
+shinyApp(ui = ui, server = server)
+
+
+```
+
+
+```{r CoC_map_picture, echo=FALSE, fig.cap="Screenshot ShinyApp: degree of motorization", out.width = '100%'}
+
+
+if (user == "Philipp") {
+knitr::include_graphics(paste0(path.screenshots.philipp,"/Degree of motorisation Plot_1.png"))
+}
+
+if (user == "Nils") {
+knitr::include_graphics(paste0(path.screenshots.nils,"/Degree of motorisation Plot_1.png"))
+}
+
+if (user == "extern") {
+knitr::include_graphics(paste0(path.screenshots.extern,"/Degree of motorisation Plot_1.png"))
+}
+
+
+```
+
+\newpage
+# Conclusion
+
+Our research has shed light on some of the factors impacting the levels of motorization from data sets of the cantonal office of statistics in the canton of Zurich. We have demonstrated that public and commercial spaces such as restaurants and workplaces impact the level of motorization in communities. Additionally, municipal investments in traffic management and environmental protection appear to be related with the number of vehicles in the canton. Finally, also the class of remuneration for public transport particularly for municipalities with a high proportion of class B and C tend to have high levels of motorization. 
+
+The insights of our report can be used in policy discussions at the municipal and cantonal levels to address the expansions of individualized rather than shared public transport which is more economical and environmentally friendly. 
+
+

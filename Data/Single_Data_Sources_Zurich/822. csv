@@ -1,0 +1,931 @@
+"","X.U.FEFF.BFS_NR","GEBIET_NAME","THEMA_NAME","SET_NAME","SUBSET_NAME","INDIKATOR_ID","INDIKATOR_NAME","INDIKATOR_JAHR","INDIKATOR_VALUE","EINHEIT_KURZ","EINHEIT_LANG","X"
+"1",1,"Aeugst a.A.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"2",1,"Aeugst a.A.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"3",1,"Aeugst a.A.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"4",1,"Aeugst a.A.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"5",1,"Aeugst a.A.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"6",2,"Affoltern a.A.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,11.4,"%","Prozent",NA
+"7",2,"Affoltern a.A.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,18,"%","Prozent",NA
+"8",2,"Affoltern a.A.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,18,"%","Prozent",NA
+"9",2,"Affoltern a.A.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,17.7,"%","Prozent",NA
+"10",2,"Affoltern a.A.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,17.3,"%","Prozent",NA
+"11",3,"Bonstetten","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,15.9,"%","Prozent",NA
+"12",3,"Bonstetten","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,14.9,"%","Prozent",NA
+"13",3,"Bonstetten","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,14.7,"%","Prozent",NA
+"14",3,"Bonstetten","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,14.9,"%","Prozent",NA
+"15",3,"Bonstetten","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,14.6,"%","Prozent",NA
+"16",4,"Hausen a.A.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"17",4,"Hausen a.A.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"18",4,"Hausen a.A.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"19",4,"Hausen a.A.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"20",4,"Hausen a.A.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"21",5,"Hedingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,34.8,"%","Prozent",NA
+"22",5,"Hedingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,34.5,"%","Prozent",NA
+"23",5,"Hedingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,34.1,"%","Prozent",NA
+"24",5,"Hedingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,33.7,"%","Prozent",NA
+"25",5,"Hedingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,32.5,"%","Prozent",NA
+"26",6,"Kappel a.A.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"27",6,"Kappel a.A.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"28",6,"Kappel a.A.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"29",6,"Kappel a.A.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"30",6,"Kappel a.A.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"31",7,"Knonau","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"32",7,"Knonau","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"33",7,"Knonau","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"34",7,"Knonau","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"35",7,"Knonau","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"36",8,"Maschwanden","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"37",8,"Maschwanden","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"38",8,"Maschwanden","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"39",8,"Maschwanden","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"40",8,"Maschwanden","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"41",9,"Mettmenstetten","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"42",9,"Mettmenstetten","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"43",9,"Mettmenstetten","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"44",9,"Mettmenstetten","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"45",9,"Mettmenstetten","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"46",10,"Obfelden","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"47",10,"Obfelden","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"48",10,"Obfelden","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"49",10,"Obfelden","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"50",10,"Obfelden","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"51",11,"Ottenbach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"52",11,"Ottenbach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"53",11,"Ottenbach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"54",11,"Ottenbach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"55",11,"Ottenbach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"56",12,"Rifferswil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"57",12,"Rifferswil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"58",12,"Rifferswil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"59",12,"Rifferswil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"60",12,"Rifferswil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"61",13,"Stallikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"62",13,"Stallikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"63",13,"Stallikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"64",13,"Stallikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"65",13,"Stallikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"66",14,"Wettswil a.A.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,41,"%","Prozent",NA
+"67",14,"Wettswil a.A.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,34.4,"%","Prozent",NA
+"68",14,"Wettswil a.A.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,35.3,"%","Prozent",NA
+"69",14,"Wettswil a.A.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,34.9,"%","Prozent",NA
+"70",14,"Wettswil a.A.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,34.3,"%","Prozent",NA
+"71",21,"Adlikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"72",21,"Adlikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"73",21,"Adlikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"74",21,"Adlikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"75",21,"Adlikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"76",22,"Benken","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"77",22,"Benken","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"78",22,"Benken","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"79",22,"Benken","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"80",22,"Benken","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"81",23,"Berg a.I.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"82",23,"Berg a.I.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"83",23,"Berg a.I.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"84",23,"Berg a.I.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"85",23,"Berg a.I.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"86",24,"Buch a.I.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"87",24,"Buch a.I.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"88",24,"Buch a.I.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"89",24,"Buch a.I.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"90",24,"Buch a.I.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"91",25,"Dachsen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"92",25,"Dachsen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"93",25,"Dachsen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"94",25,"Dachsen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"95",25,"Dachsen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"96",26,"Dorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"97",26,"Dorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"98",26,"Dorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"99",26,"Dorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"100",26,"Dorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"101",27,"Feuerthalen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"102",27,"Feuerthalen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"103",27,"Feuerthalen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"104",27,"Feuerthalen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"105",27,"Feuerthalen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"106",28,"Flaach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"107",28,"Flaach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"108",28,"Flaach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"109",28,"Flaach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"110",28,"Flaach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"111",29,"Flurlingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"112",29,"Flurlingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"113",29,"Flurlingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"114",29,"Flurlingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"115",29,"Flurlingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"116",30,"Andelfingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"117",30,"Andelfingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,32.1,"%","Prozent",NA
+"118",30,"Andelfingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"119",30,"Andelfingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"120",30,"Andelfingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,33.2,"%","Prozent",NA
+"121",31,"Henggart","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"122",31,"Henggart","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"123",31,"Henggart","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"124",31,"Henggart","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"125",31,"Henggart","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"126",32,"Humlikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"127",32,"Humlikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"128",32,"Humlikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"129",32,"Humlikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"130",32,"Humlikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"131",33,"Kleinandelfingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"132",33,"Kleinandelfingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"133",33,"Kleinandelfingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"134",33,"Kleinandelfingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"135",33,"Kleinandelfingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"136",34,"Laufen-Uhwiesen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"137",34,"Laufen-Uhwiesen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"138",34,"Laufen-Uhwiesen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"139",34,"Laufen-Uhwiesen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"140",34,"Laufen-Uhwiesen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"141",35,"Marthalen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"142",35,"Marthalen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"143",35,"Marthalen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"144",35,"Marthalen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"145",35,"Marthalen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"146",37,"Ossingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"147",37,"Ossingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"148",37,"Ossingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"149",37,"Ossingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"150",37,"Ossingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"151",38,"Rheinau","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"152",38,"Rheinau","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"153",38,"Rheinau","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"154",38,"Rheinau","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"155",38,"Rheinau","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"156",39,"Thalheim a.d.Th.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"157",39,"Thalheim a.d.Th.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"158",39,"Thalheim a.d.Th.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"159",39,"Thalheim a.d.Th.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"160",39,"Thalheim a.d.Th.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"161",40,"Trüllikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"162",40,"Trüllikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"163",40,"Trüllikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"164",40,"Trüllikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"165",40,"Trüllikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"166",41,"Truttikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"167",41,"Truttikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"168",41,"Truttikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"169",41,"Truttikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"170",41,"Truttikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"171",43,"Volken","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"172",43,"Volken","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"173",43,"Volken","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"174",43,"Volken","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"175",43,"Volken","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"176",51,"Bachenbülach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"177",51,"Bachenbülach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"178",51,"Bachenbülach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"179",51,"Bachenbülach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"180",51,"Bachenbülach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"181",52,"Bassersdorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"182",52,"Bassersdorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,10.4,"%","Prozent",NA
+"183",52,"Bassersdorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,10.4,"%","Prozent",NA
+"184",52,"Bassersdorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,10.4,"%","Prozent",NA
+"185",52,"Bassersdorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,10.2,"%","Prozent",NA
+"186",53,"Bülach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,16.1,"%","Prozent",NA
+"187",53,"Bülach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,16.2,"%","Prozent",NA
+"188",53,"Bülach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,16.4,"%","Prozent",NA
+"189",53,"Bülach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,14.1,"%","Prozent",NA
+"190",53,"Bülach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,18.7,"%","Prozent",NA
+"191",54,"Dietlikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,20.6,"%","Prozent",NA
+"192",54,"Dietlikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,20.4,"%","Prozent",NA
+"193",54,"Dietlikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,20.4,"%","Prozent",NA
+"194",54,"Dietlikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,20.1,"%","Prozent",NA
+"195",54,"Dietlikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,21.4,"%","Prozent",NA
+"196",55,"Eglisau","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"197",55,"Eglisau","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"198",55,"Eglisau","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"199",55,"Eglisau","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"200",55,"Eglisau","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"201",56,"Embrach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"202",56,"Embrach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,34.3,"%","Prozent",NA
+"203",56,"Embrach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,34.5,"%","Prozent",NA
+"204",56,"Embrach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,51.6,"%","Prozent",NA
+"205",56,"Embrach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"206",57,"Freienstein-Teufen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"207",57,"Freienstein-Teufen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"208",57,"Freienstein-Teufen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"209",57,"Freienstein-Teufen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"210",57,"Freienstein-Teufen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"211",58,"Glattfelden","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"212",58,"Glattfelden","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"213",58,"Glattfelden","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"214",58,"Glattfelden","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"215",58,"Glattfelden","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"216",59,"Hochfelden","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"217",59,"Hochfelden","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"218",59,"Hochfelden","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"219",59,"Hochfelden","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"220",59,"Hochfelden","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"221",60,"Höri","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"222",60,"Höri","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"223",60,"Höri","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"224",60,"Höri","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"225",60,"Höri","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"226",61,"Hüntwangen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"227",61,"Hüntwangen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"228",61,"Hüntwangen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"229",61,"Hüntwangen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"230",61,"Hüntwangen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"231",62,"Kloten","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,26,"%","Prozent",NA
+"232",62,"Kloten","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,39.9,"%","Prozent",NA
+"233",62,"Kloten","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,31,"%","Prozent",NA
+"234",62,"Kloten","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,30.8,"%","Prozent",NA
+"235",62,"Kloten","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,30.8,"%","Prozent",NA
+"236",63,"Lufingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"237",63,"Lufingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"238",63,"Lufingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"239",63,"Lufingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"240",63,"Lufingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"241",64,"Nürensdorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"242",64,"Nürensdorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"243",64,"Nürensdorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"244",64,"Nürensdorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"245",64,"Nürensdorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"246",65,"Oberembrach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"247",65,"Oberembrach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"248",65,"Oberembrach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"249",65,"Oberembrach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"250",65,"Oberembrach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"251",66,"Opfikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,43.5,"%","Prozent",NA
+"252",66,"Opfikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,49.7,"%","Prozent",NA
+"253",66,"Opfikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,43.3,"%","Prozent",NA
+"254",66,"Opfikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,41.1,"%","Prozent",NA
+"255",66,"Opfikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,43.4,"%","Prozent",NA
+"256",67,"Rafz","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"257",67,"Rafz","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"258",67,"Rafz","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"259",67,"Rafz","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"260",67,"Rafz","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"261",68,"Rorbas","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"262",68,"Rorbas","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"263",68,"Rorbas","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"264",68,"Rorbas","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"265",68,"Rorbas","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"266",69,"Wallisellen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,26.3,"%","Prozent",NA
+"267",69,"Wallisellen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,31,"%","Prozent",NA
+"268",69,"Wallisellen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,30.6,"%","Prozent",NA
+"269",69,"Wallisellen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,32.4,"%","Prozent",NA
+"270",69,"Wallisellen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,26.6,"%","Prozent",NA
+"271",70,"Wasterkingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"272",70,"Wasterkingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"273",70,"Wasterkingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"274",70,"Wasterkingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"275",70,"Wasterkingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"276",71,"Wil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"277",71,"Wil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"278",71,"Wil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"279",71,"Wil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"280",71,"Wil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"281",72,"Winkel","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"282",72,"Winkel","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"283",72,"Winkel","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"284",72,"Winkel","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"285",72,"Winkel","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"286",81,"Bachs","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"287",81,"Bachs","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"288",81,"Bachs","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"289",81,"Bachs","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"290",81,"Bachs","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"291",82,"Boppelsen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"292",82,"Boppelsen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"293",82,"Boppelsen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"294",82,"Boppelsen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"295",82,"Boppelsen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"296",83,"Buchs","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"297",83,"Buchs","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"298",83,"Buchs","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"299",83,"Buchs","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"300",83,"Buchs","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"301",84,"Dällikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"302",84,"Dällikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"303",84,"Dällikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"304",84,"Dällikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"305",84,"Dällikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"306",85,"Dänikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"307",85,"Dänikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"308",85,"Dänikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"309",85,"Dänikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"310",85,"Dänikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"311",86,"Dielsdorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"312",86,"Dielsdorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"313",86,"Dielsdorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"314",86,"Dielsdorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"315",86,"Dielsdorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"316",87,"Hüttikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"317",87,"Hüttikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"318",87,"Hüttikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"319",87,"Hüttikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"320",87,"Hüttikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"321",88,"Neerach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"322",88,"Neerach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"323",88,"Neerach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"324",88,"Neerach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"325",88,"Neerach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"326",89,"Niederglatt","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"327",89,"Niederglatt","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"328",89,"Niederglatt","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"329",89,"Niederglatt","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"330",89,"Niederglatt","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"331",90,"Niederhasli","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0.2,"%","Prozent",NA
+"332",90,"Niederhasli","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0.2,"%","Prozent",NA
+"333",90,"Niederhasli","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0.2,"%","Prozent",NA
+"334",90,"Niederhasli","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0.2,"%","Prozent",NA
+"335",90,"Niederhasli","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0.2,"%","Prozent",NA
+"336",91,"Niederweningen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"337",91,"Niederweningen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"338",91,"Niederweningen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"339",91,"Niederweningen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"340",91,"Niederweningen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"341",92,"Oberglatt","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,15.6,"%","Prozent",NA
+"342",92,"Oberglatt","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,15.2,"%","Prozent",NA
+"343",92,"Oberglatt","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,15.1,"%","Prozent",NA
+"344",92,"Oberglatt","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,15,"%","Prozent",NA
+"345",92,"Oberglatt","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,14.6,"%","Prozent",NA
+"346",93,"Oberweningen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"347",93,"Oberweningen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"348",93,"Oberweningen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"349",93,"Oberweningen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"350",93,"Oberweningen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"351",94,"Otelfingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"352",94,"Otelfingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"353",94,"Otelfingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"354",94,"Otelfingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"355",94,"Otelfingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"356",95,"Regensberg","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"357",95,"Regensberg","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"358",95,"Regensberg","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"359",95,"Regensberg","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"360",95,"Regensberg","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"361",96,"Regensdorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,30.4,"%","Prozent",NA
+"362",96,"Regensdorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,33.9,"%","Prozent",NA
+"363",96,"Regensdorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,30.5,"%","Prozent",NA
+"364",96,"Regensdorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,30.7,"%","Prozent",NA
+"365",96,"Regensdorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,34.2,"%","Prozent",NA
+"366",97,"Rümlang","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0.3,"%","Prozent",NA
+"367",97,"Rümlang","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,13.1,"%","Prozent",NA
+"368",97,"Rümlang","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,12.7,"%","Prozent",NA
+"369",97,"Rümlang","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,12.6,"%","Prozent",NA
+"370",97,"Rümlang","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,12.9,"%","Prozent",NA
+"371",98,"Schleinikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"372",98,"Schleinikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"373",98,"Schleinikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"374",98,"Schleinikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"375",98,"Schleinikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"376",99,"Schöfflisdorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"377",99,"Schöfflisdorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"378",99,"Schöfflisdorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"379",99,"Schöfflisdorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"380",99,"Schöfflisdorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"381",100,"Stadel","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"382",100,"Stadel","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"383",100,"Stadel","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"384",100,"Stadel","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"385",100,"Stadel","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"386",101,"Steinmaur","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"387",101,"Steinmaur","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"388",101,"Steinmaur","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"389",101,"Steinmaur","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"390",101,"Steinmaur","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"391",102,"Weiach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"392",102,"Weiach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"393",102,"Weiach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"394",102,"Weiach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"395",102,"Weiach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"396",111,"Bäretswil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"397",111,"Bäretswil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"398",111,"Bäretswil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"399",111,"Bäretswil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"400",111,"Bäretswil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"401",112,"Bubikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,13.2,"%","Prozent",NA
+"402",112,"Bubikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,13.8,"%","Prozent",NA
+"403",112,"Bubikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,24.1,"%","Prozent",NA
+"404",112,"Bubikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,13.7,"%","Prozent",NA
+"405",112,"Bubikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,13.3,"%","Prozent",NA
+"406",113,"Dürnten","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"407",113,"Dürnten","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"408",113,"Dürnten","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"409",113,"Dürnten","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"410",113,"Dürnten","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"411",114,"Fischenthal","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"412",114,"Fischenthal","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"413",114,"Fischenthal","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"414",114,"Fischenthal","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"415",114,"Fischenthal","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"416",115,"Gossau","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,27.6,"%","Prozent",NA
+"417",115,"Gossau","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,27.1,"%","Prozent",NA
+"418",115,"Gossau","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,28.2,"%","Prozent",NA
+"419",115,"Gossau","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,30.9,"%","Prozent",NA
+"420",115,"Gossau","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,31.3,"%","Prozent",NA
+"421",116,"Grüningen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"422",116,"Grüningen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"423",116,"Grüningen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"424",116,"Grüningen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"425",116,"Grüningen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"426",117,"Hinwil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"427",117,"Hinwil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"428",117,"Hinwil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"429",117,"Hinwil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"430",117,"Hinwil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,16.2,"%","Prozent",NA
+"431",118,"Rüti","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,12.4,"%","Prozent",NA
+"432",118,"Rüti","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,12.6,"%","Prozent",NA
+"433",118,"Rüti","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,12.6,"%","Prozent",NA
+"434",118,"Rüti","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,12.5,"%","Prozent",NA
+"435",118,"Rüti","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,12.2,"%","Prozent",NA
+"436",119,"Seegräben","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"437",119,"Seegräben","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"438",119,"Seegräben","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"439",119,"Seegräben","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"440",119,"Seegräben","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"441",120,"Wald","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"442",120,"Wald","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"443",120,"Wald","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"444",120,"Wald","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"445",120,"Wald","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"446",121,"Wetzikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,17.5,"%","Prozent",NA
+"447",121,"Wetzikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,18.5,"%","Prozent",NA
+"448",121,"Wetzikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,22.6,"%","Prozent",NA
+"449",121,"Wetzikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,18,"%","Prozent",NA
+"450",121,"Wetzikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,17.9,"%","Prozent",NA
+"451",131,"Adliswil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,26.5,"%","Prozent",NA
+"452",131,"Adliswil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,26.5,"%","Prozent",NA
+"453",131,"Adliswil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,26.8,"%","Prozent",NA
+"454",131,"Adliswil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,26.7,"%","Prozent",NA
+"455",131,"Adliswil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,26.9,"%","Prozent",NA
+"456",135,"Kilchberg","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,11.4,"%","Prozent",NA
+"457",135,"Kilchberg","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,12,"%","Prozent",NA
+"458",135,"Kilchberg","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,12.1,"%","Prozent",NA
+"459",135,"Kilchberg","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,11.7,"%","Prozent",NA
+"460",135,"Kilchberg","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,12,"%","Prozent",NA
+"461",136,"Langnau a.A.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"462",136,"Langnau a.A.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"463",136,"Langnau a.A.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"464",136,"Langnau a.A.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"465",136,"Langnau a.A.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"466",137,"Oberrieden","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"467",137,"Oberrieden","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"468",137,"Oberrieden","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"469",137,"Oberrieden","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"470",137,"Oberrieden","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"471",138,"Richterswil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,10.6,"%","Prozent",NA
+"472",138,"Richterswil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,1.1,"%","Prozent",NA
+"473",138,"Richterswil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,8.4,"%","Prozent",NA
+"474",138,"Richterswil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,8.4,"%","Prozent",NA
+"475",138,"Richterswil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,8.3,"%","Prozent",NA
+"476",139,"Rüschlikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,22.5,"%","Prozent",NA
+"477",139,"Rüschlikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,22.1,"%","Prozent",NA
+"478",139,"Rüschlikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,22.3,"%","Prozent",NA
+"479",139,"Rüschlikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,22,"%","Prozent",NA
+"480",139,"Rüschlikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,22.2,"%","Prozent",NA
+"481",141,"Thalwil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,23.3,"%","Prozent",NA
+"482",141,"Thalwil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,22.7,"%","Prozent",NA
+"483",141,"Thalwil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,22.6,"%","Prozent",NA
+"484",141,"Thalwil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,22.3,"%","Prozent",NA
+"485",141,"Thalwil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,22.5,"%","Prozent",NA
+"486",151,"Erlenbach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,36.3,"%","Prozent",NA
+"487",151,"Erlenbach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,35.2,"%","Prozent",NA
+"488",151,"Erlenbach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,35.1,"%","Prozent",NA
+"489",151,"Erlenbach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,34.8,"%","Prozent",NA
+"490",151,"Erlenbach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,34.4,"%","Prozent",NA
+"491",152,"Herrliberg","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"492",152,"Herrliberg","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,2,"%","Prozent",NA
+"493",152,"Herrliberg","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,2,"%","Prozent",NA
+"494",152,"Herrliberg","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,2.1,"%","Prozent",NA
+"495",152,"Herrliberg","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,1.8,"%","Prozent",NA
+"496",153,"Hombrechtikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,13.1,"%","Prozent",NA
+"497",153,"Hombrechtikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,13.2,"%","Prozent",NA
+"498",153,"Hombrechtikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,13.2,"%","Prozent",NA
+"499",153,"Hombrechtikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,12.8,"%","Prozent",NA
+"500",153,"Hombrechtikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,13.1,"%","Prozent",NA
+"501",154,"Küsnacht","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,22,"%","Prozent",NA
+"502",154,"Küsnacht","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,21.5,"%","Prozent",NA
+"503",154,"Küsnacht","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,21.4,"%","Prozent",NA
+"504",154,"Küsnacht","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,21.6,"%","Prozent",NA
+"505",154,"Küsnacht","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,21.6,"%","Prozent",NA
+"506",155,"Männedorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,2.9,"%","Prozent",NA
+"507",155,"Männedorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,2.7,"%","Prozent",NA
+"508",155,"Männedorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,9.5,"%","Prozent",NA
+"509",155,"Männedorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,2.5,"%","Prozent",NA
+"510",155,"Männedorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,2.5,"%","Prozent",NA
+"511",156,"Meilen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,12.4,"%","Prozent",NA
+"512",156,"Meilen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,10.9,"%","Prozent",NA
+"513",156,"Meilen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,10.5,"%","Prozent",NA
+"514",156,"Meilen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,10.9,"%","Prozent",NA
+"515",156,"Meilen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,11,"%","Prozent",NA
+"516",157,"Oetwil a.S.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,18.8,"%","Prozent",NA
+"517",157,"Oetwil a.S.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,18.8,"%","Prozent",NA
+"518",157,"Oetwil a.S.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,18.8,"%","Prozent",NA
+"519",157,"Oetwil a.S.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,19.5,"%","Prozent",NA
+"520",157,"Oetwil a.S.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,19.6,"%","Prozent",NA
+"521",158,"Stäfa","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,11.1,"%","Prozent",NA
+"522",158,"Stäfa","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,11,"%","Prozent",NA
+"523",158,"Stäfa","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,10.5,"%","Prozent",NA
+"524",158,"Stäfa","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,10.4,"%","Prozent",NA
+"525",158,"Stäfa","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,10.7,"%","Prozent",NA
+"526",159,"Uetikon a.S.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,4.4,"%","Prozent",NA
+"527",159,"Uetikon a.S.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,4.1,"%","Prozent",NA
+"528",159,"Uetikon a.S.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,4.1,"%","Prozent",NA
+"529",159,"Uetikon a.S.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,4.4,"%","Prozent",NA
+"530",159,"Uetikon a.S.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,4.1,"%","Prozent",NA
+"531",160,"Zumikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,51.2,"%","Prozent",NA
+"532",160,"Zumikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,49.4,"%","Prozent",NA
+"533",160,"Zumikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,48.8,"%","Prozent",NA
+"534",160,"Zumikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,50.4,"%","Prozent",NA
+"535",160,"Zumikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,51.3,"%","Prozent",NA
+"536",161,"Zollikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,39.7,"%","Prozent",NA
+"537",161,"Zollikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,40,"%","Prozent",NA
+"538",161,"Zollikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,39.8,"%","Prozent",NA
+"539",161,"Zollikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,40,"%","Prozent",NA
+"540",161,"Zollikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,39.7,"%","Prozent",NA
+"541",172,"Fehraltorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"542",172,"Fehraltorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"543",172,"Fehraltorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"544",172,"Fehraltorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"545",172,"Fehraltorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"546",173,"Hittnau","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"547",173,"Hittnau","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"548",173,"Hittnau","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"549",173,"Hittnau","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"550",173,"Hittnau","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"551",176,"Lindau","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0.1,"%","Prozent",NA
+"552",176,"Lindau","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0.1,"%","Prozent",NA
+"553",176,"Lindau","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0.2,"%","Prozent",NA
+"554",176,"Lindau","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0.2,"%","Prozent",NA
+"555",176,"Lindau","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0.2,"%","Prozent",NA
+"556",177,"Pfäffikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,9.6,"%","Prozent",NA
+"557",177,"Pfäffikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,10.5,"%","Prozent",NA
+"558",177,"Pfäffikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,10.3,"%","Prozent",NA
+"559",177,"Pfäffikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,10.3,"%","Prozent",NA
+"560",177,"Pfäffikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,10.7,"%","Prozent",NA
+"561",178,"Russikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"562",178,"Russikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"563",178,"Russikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"564",178,"Russikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"565",178,"Russikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"566",180,"Weisslingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"567",180,"Weisslingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"568",180,"Weisslingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"569",180,"Weisslingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"570",180,"Weisslingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"571",181,"Wila","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"572",181,"Wila","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"573",181,"Wila","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"574",181,"Wila","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"575",181,"Wila","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"576",182,"Wildberg","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"577",182,"Wildberg","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"578",182,"Wildberg","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"579",182,"Wildberg","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"580",182,"Wildberg","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"581",191,"Dübendorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,42.3,"%","Prozent",NA
+"582",191,"Dübendorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,41.8,"%","Prozent",NA
+"583",191,"Dübendorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,41.2,"%","Prozent",NA
+"584",191,"Dübendorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,44.2,"%","Prozent",NA
+"585",191,"Dübendorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,39.4,"%","Prozent",NA
+"586",192,"Egg","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,51,"%","Prozent",NA
+"587",192,"Egg","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,51,"%","Prozent",NA
+"588",192,"Egg","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,50.9,"%","Prozent",NA
+"589",192,"Egg","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,51,"%","Prozent",NA
+"590",192,"Egg","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,52,"%","Prozent",NA
+"591",193,"Fällanden","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,33.2,"%","Prozent",NA
+"592",193,"Fällanden","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,33,"%","Prozent",NA
+"593",193,"Fällanden","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,30.3,"%","Prozent",NA
+"594",193,"Fällanden","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,30.9,"%","Prozent",NA
+"595",193,"Fällanden","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,31.4,"%","Prozent",NA
+"596",194,"Greifensee","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,2,"%","Prozent",NA
+"597",194,"Greifensee","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,1.9,"%","Prozent",NA
+"598",194,"Greifensee","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,1.9,"%","Prozent",NA
+"599",194,"Greifensee","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,1.9,"%","Prozent",NA
+"600",194,"Greifensee","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,2,"%","Prozent",NA
+"601",195,"Maur","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,9.2,"%","Prozent",NA
+"602",195,"Maur","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,9.1,"%","Prozent",NA
+"603",195,"Maur","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,9.6,"%","Prozent",NA
+"604",195,"Maur","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,9.8,"%","Prozent",NA
+"605",195,"Maur","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,9.4,"%","Prozent",NA
+"606",196,"Mönchaltorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"607",196,"Mönchaltorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"608",196,"Mönchaltorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"609",196,"Mönchaltorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"610",196,"Mönchaltorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"611",197,"Schwerzenbach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,31.3,"%","Prozent",NA
+"612",197,"Schwerzenbach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,31.4,"%","Prozent",NA
+"613",197,"Schwerzenbach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,30.6,"%","Prozent",NA
+"614",197,"Schwerzenbach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,31.1,"%","Prozent",NA
+"615",197,"Schwerzenbach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,30.7,"%","Prozent",NA
+"616",198,"Uster","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,18.4,"%","Prozent",NA
+"617",198,"Uster","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,22.7,"%","Prozent",NA
+"618",198,"Uster","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,22.6,"%","Prozent",NA
+"619",198,"Uster","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,22.6,"%","Prozent",NA
+"620",198,"Uster","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,22.8,"%","Prozent",NA
+"621",199,"Volketswil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,30.4,"%","Prozent",NA
+"622",199,"Volketswil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,26.9,"%","Prozent",NA
+"623",199,"Volketswil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,26.7,"%","Prozent",NA
+"624",199,"Volketswil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,27,"%","Prozent",NA
+"625",199,"Volketswil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,30.6,"%","Prozent",NA
+"626",200,"Wangen-Brüttisellen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,30.5,"%","Prozent",NA
+"627",200,"Wangen-Brüttisellen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,30.7,"%","Prozent",NA
+"628",200,"Wangen-Brüttisellen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,30.7,"%","Prozent",NA
+"629",200,"Wangen-Brüttisellen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,30.7,"%","Prozent",NA
+"630",200,"Wangen-Brüttisellen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,30.6,"%","Prozent",NA
+"631",211,"Altikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"632",211,"Altikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"633",211,"Altikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"634",211,"Altikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"635",211,"Altikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"636",213,"Brütten","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"637",213,"Brütten","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"638",213,"Brütten","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"639",213,"Brütten","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"640",213,"Brütten","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"641",214,"Dägerlen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"642",214,"Dägerlen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"643",214,"Dägerlen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"644",214,"Dägerlen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"645",214,"Dägerlen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"646",215,"Dättlikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"647",215,"Dättlikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"648",215,"Dättlikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"649",215,"Dättlikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"650",215,"Dättlikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"651",216,"Dinhard","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"652",216,"Dinhard","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"653",216,"Dinhard","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"654",216,"Dinhard","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"655",216,"Dinhard","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"656",218,"Ellikon a.d.Th.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"657",218,"Ellikon a.d.Th.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"658",218,"Ellikon a.d.Th.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"659",218,"Ellikon a.d.Th.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"660",218,"Ellikon a.d.Th.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"661",219,"Elsau","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"662",219,"Elsau","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"663",219,"Elsau","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"664",219,"Elsau","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"665",219,"Elsau","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"666",220,"Hagenbuch","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"667",220,"Hagenbuch","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"668",220,"Hagenbuch","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"669",220,"Hagenbuch","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"670",220,"Hagenbuch","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"671",221,"Hettlingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"672",221,"Hettlingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"673",221,"Hettlingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"674",221,"Hettlingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"675",221,"Hettlingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"676",223,"Neftenbach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"677",223,"Neftenbach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"678",223,"Neftenbach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"679",223,"Neftenbach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"680",223,"Neftenbach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"681",224,"Pfungen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"682",224,"Pfungen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"683",224,"Pfungen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"684",224,"Pfungen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"685",224,"Pfungen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"686",225,"Rickenbach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"687",225,"Rickenbach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"688",225,"Rickenbach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"689",225,"Rickenbach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"690",225,"Rickenbach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"691",226,"Schlatt","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"692",226,"Schlatt","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"693",226,"Schlatt","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"694",226,"Schlatt","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"695",226,"Schlatt","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"696",227,"Seuzach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"697",227,"Seuzach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"698",227,"Seuzach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"699",227,"Seuzach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"700",227,"Seuzach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"701",228,"Turbenthal","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"702",228,"Turbenthal","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"703",228,"Turbenthal","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"704",228,"Turbenthal","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"705",228,"Turbenthal","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"706",230,"Winterthur","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,48.6,"%","Prozent",NA
+"707",230,"Winterthur","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,46.5,"%","Prozent",NA
+"708",230,"Winterthur","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,46.3,"%","Prozent",NA
+"709",230,"Winterthur","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,46.2,"%","Prozent",NA
+"710",230,"Winterthur","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,48.4,"%","Prozent",NA
+"711",231,"Zell","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"712",231,"Zell","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"713",231,"Zell","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"714",231,"Zell","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"715",231,"Zell","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"716",241,"Aesch ZH","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"717",241,"Aesch ZH","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"718",241,"Aesch ZH","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"719",241,"Aesch ZH","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"720",241,"Aesch ZH","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"721",242,"Birmensdorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,14.3,"%","Prozent",NA
+"722",242,"Birmensdorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,30.6,"%","Prozent",NA
+"723",242,"Birmensdorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,30.9,"%","Prozent",NA
+"724",242,"Birmensdorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,30.7,"%","Prozent",NA
+"725",242,"Birmensdorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,30.5,"%","Prozent",NA
+"726",243,"Dietikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,34.2,"%","Prozent",NA
+"727",243,"Dietikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,33.8,"%","Prozent",NA
+"728",243,"Dietikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,33.4,"%","Prozent",NA
+"729",243,"Dietikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,31.5,"%","Prozent",NA
+"730",243,"Dietikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,32.1,"%","Prozent",NA
+"731",244,"Geroldswil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,64.7,"%","Prozent",NA
+"732",244,"Geroldswil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,69.2,"%","Prozent",NA
+"733",244,"Geroldswil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,68.8,"%","Prozent",NA
+"734",244,"Geroldswil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,68.4,"%","Prozent",NA
+"735",244,"Geroldswil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,68.6,"%","Prozent",NA
+"736",245,"Oberengstringen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,8.3,"%","Prozent",NA
+"737",245,"Oberengstringen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,8.2,"%","Prozent",NA
+"738",245,"Oberengstringen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,7.8,"%","Prozent",NA
+"739",245,"Oberengstringen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,7.6,"%","Prozent",NA
+"740",245,"Oberengstringen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,8,"%","Prozent",NA
+"741",246,"Oetwil a.d.L.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"742",246,"Oetwil a.d.L.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"743",246,"Oetwil a.d.L.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"744",246,"Oetwil a.d.L.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"745",246,"Oetwil a.d.L.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"746",247,"Schlieren","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,57.7,"%","Prozent",NA
+"747",247,"Schlieren","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,40.3,"%","Prozent",NA
+"748",247,"Schlieren","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,56.9,"%","Prozent",NA
+"749",247,"Schlieren","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,32.8,"%","Prozent",NA
+"750",247,"Schlieren","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,37.4,"%","Prozent",NA
+"751",248,"Uitikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,4.2,"%","Prozent",NA
+"752",248,"Uitikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,4.3,"%","Prozent",NA
+"753",248,"Uitikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,4.4,"%","Prozent",NA
+"754",248,"Uitikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,4.2,"%","Prozent",NA
+"755",248,"Uitikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,7.5,"%","Prozent",NA
+"756",249,"Unterengstringen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,3,"%","Prozent",NA
+"757",249,"Unterengstringen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,2.4,"%","Prozent",NA
+"758",249,"Unterengstringen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,2.3,"%","Prozent",NA
+"759",249,"Unterengstringen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,2.2,"%","Prozent",NA
+"760",249,"Unterengstringen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,2.1,"%","Prozent",NA
+"761",250,"Urdorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,27.4,"%","Prozent",NA
+"762",250,"Urdorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,27.9,"%","Prozent",NA
+"763",250,"Urdorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,28.4,"%","Prozent",NA
+"764",250,"Urdorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,27.5,"%","Prozent",NA
+"765",250,"Urdorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,27.3,"%","Prozent",NA
+"766",251,"Weiningen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,28,"%","Prozent",NA
+"767",251,"Weiningen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,28.5,"%","Prozent",NA
+"768",251,"Weiningen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,28.2,"%","Prozent",NA
+"769",251,"Weiningen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,29.7,"%","Prozent",NA
+"770",251,"Weiningen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,29.5,"%","Prozent",NA
+"771",261,"Zürich","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,32.6,"%","Prozent",NA
+"772",261,"Zürich","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,31.3,"%","Prozent",NA
+"773",261,"Zürich","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,31.7,"%","Prozent",NA
+"774",261,"Zürich","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,31,"%","Prozent",NA
+"775",261,"Zürich","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,30.8,"%","Prozent",NA
+"776",292,"Stammheim","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"777",292,"Stammheim","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"778",292,"Stammheim","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"779",292,"Stammheim","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"780",292,"Stammheim","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"781",293,"Wädenswil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,10.9,"%","Prozent",NA
+"782",293,"Wädenswil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,16.5,"%","Prozent",NA
+"783",293,"Wädenswil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,12.7,"%","Prozent",NA
+"784",293,"Wädenswil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,12.6,"%","Prozent",NA
+"785",293,"Wädenswil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,12.6,"%","Prozent",NA
+"786",294,"Elgg","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"787",294,"Elgg","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"788",294,"Elgg","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"789",294,"Elgg","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"790",294,"Elgg","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"791",295,"Horgen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,11.1,"%","Prozent",NA
+"792",295,"Horgen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,11.5,"%","Prozent",NA
+"793",295,"Horgen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,11.8,"%","Prozent",NA
+"794",295,"Horgen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,11.9,"%","Prozent",NA
+"795",295,"Horgen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,11.4,"%","Prozent",NA
+"796",296,"Illnau-Effretikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,19.8,"%","Prozent",NA
+"797",296,"Illnau-Effretikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,19.8,"%","Prozent",NA
+"798",296,"Illnau-Effretikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,19.6,"%","Prozent",NA
+"799",296,"Illnau-Effretikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,19.8,"%","Prozent",NA
+"800",296,"Illnau-Effretikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,19.1,"%","Prozent",NA
+"801",297,"Bauma","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"802",297,"Bauma","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"803",297,"Bauma","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"804",297,"Bauma","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"805",297,"Bauma","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"806",298,"Wiesendangen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"807",298,"Wiesendangen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,0,"%","Prozent",NA
+"808",298,"Wiesendangen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"809",298,"Wiesendangen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"810",298,"Wiesendangen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,0,"%","Prozent",NA
+"811",0,"Bezirk Affoltern","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,10.6,"%","Prozent",NA
+"812",0,"Bezirk Affoltern","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,11.3,"%","Prozent",NA
+"813",0,"Bezirk Affoltern","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,11.2,"%","Prozent",NA
+"814",0,"Bezirk Affoltern","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,11.1,"%","Prozent",NA
+"815",0,"Bezirk Affoltern","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,10.8,"%","Prozent",NA
+"816",0,"Bezirk Andelfingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"817",0,"Bezirk Andelfingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,2.3,"%","Prozent",NA
+"818",0,"Bezirk Andelfingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"819",0,"Bezirk Andelfingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"820",0,"Bezirk Andelfingen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,2.4,"%","Prozent",NA
+"821",0,"Bezirk Bülach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,15,"%","Prozent",NA
+"822",0,"Bezirk Bülach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,21.3,"%","Prozent",NA
+"823",0,"Bezirk Bülach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,19.3,"%","Prozent",NA
+"824",0,"Bezirk Bülach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,20,"%","Prozent",NA
+"825",0,"Bezirk Bülach","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,17.2,"%","Prozent",NA
+"826",0,"Bezirk Dielsdorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,7.5,"%","Prozent",NA
+"827",0,"Bezirk Dielsdorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,9.3,"%","Prozent",NA
+"828",0,"Bezirk Dielsdorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,8.6,"%","Prozent",NA
+"829",0,"Bezirk Dielsdorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,8.6,"%","Prozent",NA
+"830",0,"Bezirk Dielsdorf","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,9.3,"%","Prozent",NA
+"831",0,"Bezirk Dietikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,32.2,"%","Prozent",NA
+"832",0,"Bezirk Dietikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,30,"%","Prozent",NA
+"833",0,"Bezirk Dietikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,33.2,"%","Prozent",NA
+"834",0,"Bezirk Dietikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,27.5,"%","Prozent",NA
+"835",0,"Bezirk Dietikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,28.6,"%","Prozent",NA
+"836",0,"Bezirk Hinwil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,10.1,"%","Prozent",NA
+"837",0,"Bezirk Hinwil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,10.3,"%","Prozent",NA
+"838",0,"Bezirk Hinwil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,12.2,"%","Prozent",NA
+"839",0,"Bezirk Hinwil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,10.6,"%","Prozent",NA
+"840",0,"Bezirk Hinwil","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,12.4,"%","Prozent",NA
+"841",0,"Bezirk Horgen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,14.5,"%","Prozent",NA
+"842",0,"Bezirk Horgen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,14.6,"%","Prozent",NA
+"843",0,"Bezirk Horgen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,14.8,"%","Prozent",NA
+"844",0,"Bezirk Horgen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,14.7,"%","Prozent",NA
+"845",0,"Bezirk Horgen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,14.6,"%","Prozent",NA
+"846",0,"Bezirk Meilen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,18.3,"%","Prozent",NA
+"847",0,"Bezirk Meilen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,18,"%","Prozent",NA
+"848",0,"Bezirk Meilen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,18.5,"%","Prozent",NA
+"849",0,"Bezirk Meilen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,17.9,"%","Prozent",NA
+"850",0,"Bezirk Meilen","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,17.9,"%","Prozent",NA
+"851",0,"Bezirk Pfäffikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,7.5,"%","Prozent",NA
+"852",0,"Bezirk Pfäffikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,7.6,"%","Prozent",NA
+"853",0,"Bezirk Pfäffikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,7.6,"%","Prozent",NA
+"854",0,"Bezirk Pfäffikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,7.6,"%","Prozent",NA
+"855",0,"Bezirk Pfäffikon","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,7.6,"%","Prozent",NA
+"856",0,"Bezirk Uster","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,27.6,"%","Prozent",NA
+"857",0,"Bezirk Uster","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,28.2,"%","Prozent",NA
+"858",0,"Bezirk Uster","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,27.8,"%","Prozent",NA
+"859",0,"Bezirk Uster","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,28.7,"%","Prozent",NA
+"860",0,"Bezirk Uster","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,28.2,"%","Prozent",NA
+"861",0,"Bezirk Winterthur","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,32.1,"%","Prozent",NA
+"862",0,"Bezirk Winterthur","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,30.6,"%","Prozent",NA
+"863",0,"Bezirk Winterthur","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,30.5,"%","Prozent",NA
+"864",0,"Bezirk Winterthur","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,30.5,"%","Prozent",NA
+"865",0,"Bezirk Winterthur","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,31.9,"%","Prozent",NA
+"866",0,"Bezirk Zürich","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,32.6,"%","Prozent",NA
+"867",0,"Bezirk Zürich","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,31.3,"%","Prozent",NA
+"868",0,"Bezirk Zürich","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,31.7,"%","Prozent",NA
+"869",0,"Bezirk Zürich","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,31,"%","Prozent",NA
+"870",0,"Bezirk Zürich","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,30.8,"%","Prozent",NA
+"871",0,"Region Furttal","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,15.6,"%","Prozent",NA
+"872",0,"Region Furttal","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,17.3,"%","Prozent",NA
+"873",0,"Region Furttal","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,15.6,"%","Prozent",NA
+"874",0,"Region Furttal","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,15.7,"%","Prozent",NA
+"875",0,"Region Furttal","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,17.4,"%","Prozent",NA
+"876",0,"Region Glattal","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,26,"%","Prozent",NA
+"877",0,"Region Glattal","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,29.6,"%","Prozent",NA
+"878",0,"Region Glattal","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,27.6,"%","Prozent",NA
+"879",0,"Region Glattal","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,28.2,"%","Prozent",NA
+"880",0,"Region Glattal","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,27.6,"%","Prozent",NA
+"881",0,"Region Knonaueramt","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,10.6,"%","Prozent",NA
+"882",0,"Region Knonaueramt","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,11.3,"%","Prozent",NA
+"883",0,"Region Knonaueramt","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,11.2,"%","Prozent",NA
+"884",0,"Region Knonaueramt","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,11.1,"%","Prozent",NA
+"885",0,"Region Knonaueramt","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,10.8,"%","Prozent",NA
+"886",0,"Region Limmattal","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,32.2,"%","Prozent",NA
+"887",0,"Region Limmattal","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,30,"%","Prozent",NA
+"888",0,"Region Limmattal","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,33.2,"%","Prozent",NA
+"889",0,"Region Limmattal","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,27.5,"%","Prozent",NA
+"890",0,"Region Limmattal","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,28.6,"%","Prozent",NA
+"891",0,"Region Oberland","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,10.2,"%","Prozent",NA
+"892",0,"Region Oberland","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,11.3,"%","Prozent",NA
+"893",0,"Region Oberland","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,12.3,"%","Prozent",NA
+"894",0,"Region Oberland","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,11.4,"%","Prozent",NA
+"895",0,"Region Oberland","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,12.5,"%","Prozent",NA
+"896",0,"Region Pfannenstiel","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,20.8,"%","Prozent",NA
+"897",0,"Region Pfannenstiel","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,20.5,"%","Prozent",NA
+"898",0,"Region Pfannenstiel","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,21,"%","Prozent",NA
+"899",0,"Region Pfannenstiel","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,20.4,"%","Prozent",NA
+"900",0,"Region Pfannenstiel","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,20.6,"%","Prozent",NA
+"901",0,"Region Unterland","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,3.8,"%","Prozent",NA
+"902",0,"Region Unterland","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,6.5,"%","Prozent",NA
+"903",0,"Region Unterland","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,6.6,"%","Prozent",NA
+"904",0,"Region Unterland","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,7.6,"%","Prozent",NA
+"905",0,"Region Unterland","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,4.3,"%","Prozent",NA
+"906",0,"Region Weinland","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,0,"%","Prozent",NA
+"907",0,"Region Weinland","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,2.3,"%","Prozent",NA
+"908",0,"Region Weinland","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,0,"%","Prozent",NA
+"909",0,"Region Weinland","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,0,"%","Prozent",NA
+"910",0,"Region Weinland","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,2.4,"%","Prozent",NA
+"911",0,"Region Winterthur u. Umg.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,29.6,"%","Prozent",NA
+"912",0,"Region Winterthur u. Umg.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,28.3,"%","Prozent",NA
+"913",0,"Region Winterthur u. Umg.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,28.1,"%","Prozent",NA
+"914",0,"Region Winterthur u. Umg.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,28.1,"%","Prozent",NA
+"915",0,"Region Winterthur u. Umg.","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,29.3,"%","Prozent",NA
+"916",0,"Region Zimmerberg","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,14.5,"%","Prozent",NA
+"917",0,"Region Zimmerberg","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,14.6,"%","Prozent",NA
+"918",0,"Region Zimmerberg","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,14.8,"%","Prozent",NA
+"919",0,"Region Zimmerberg","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,14.7,"%","Prozent",NA
+"920",0,"Region Zimmerberg","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,14.6,"%","Prozent",NA
+"921",0,"Region Zürich","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,32.6,"%","Prozent",NA
+"922",0,"Region Zürich","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,31.3,"%","Prozent",NA
+"923",0,"Region Zürich","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,31.7,"%","Prozent",NA
+"924",0,"Region Zürich","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,31,"%","Prozent",NA
+"925",0,"Region Zürich","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,30.8,"%","Prozent",NA
+"926",0,"Zürich - ganzer Kanton","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2015,22.4,"%","Prozent",NA
+"927",0,"Zürich - ganzer Kanton","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2016,22.7,"%","Prozent",NA
+"928",0,"Zürich - ganzer Kanton","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2017,22.8,"%","Prozent",NA
+"929",0,"Zürich - ganzer Kanton","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2018,22.3,"%","Prozent",NA
+"930",0,"Zürich - ganzer Kanton","Raum und Umwelt","Verkehr","ÖV-Güteklassen Erschliessung",822,"Anteil GK B [%]",2019,22.3,"%","Prozent",NA
